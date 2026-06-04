@@ -280,9 +280,11 @@
     "cookies": "Cookie 设置",
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": {
-      "council": "华沙旅游局",
       "tourism": "波兰国家旅游局",
-      "gov": "波兰共和国外交与签证"
+      "gov": "波兰共和国外交与签证",
+      "nid": "波兰国家遗产研究院",
+      "museum": "华沙起义博物馆",
+      "city": "华沙市政府"
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
   },

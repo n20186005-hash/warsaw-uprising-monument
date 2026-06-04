@@ -280,9 +280,11 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "council": "Warsaw Tourism",
       "tourism": "Polish Tourism Organisation",
-      "gov": "Ministry of Foreign Affairs Republic of Poland"
+      "gov": "Ministry of Foreign Affairs Republic of Poland",
+      "nid": "National Institute of Cultural Heritage",
+      "museum": "Warsaw Uprising Museum",
+      "city": "City of Warsaw"
     },
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
   },

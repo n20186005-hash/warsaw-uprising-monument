@@ -102,6 +102,42 @@ https://maps.app.goo.gl/o1op4p1Fq98DU4WF9
 
 
 
+
+
+删除原先友情链接
+
+华沙旅游局
+
+https://www.warsawtour.pl/
+
+新增友情链接
+
+
+
+波兰国家遗产研究院
+
+https://nid.pl/
+
+华沙起义博物馆
+
+https://www.1944.pl/
+
+华沙市政府
+
+https://um.warszawa.pl/
+
+波兰国家旅游局
+
+https://www.poland.travel/
+
+
+
+
+
+
+
+
+
 照片画廊
 
 精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
@@ -164,7 +200,25 @@ https://maps.app.goo.gl/o1op4p1Fq98DU4WF9
 
 
 
+马佐夫舍省	Warsaw Uprising Monument
 
+华沙起义纪念碑
+
+Pomnik Powstania Warszawskiego
+
+4.8(5,373)
+
+纪念碑
+
+plac Krasińskich, 00-263 Warszawa, 波兰
+
+62X4+Q9 华沙 波兰
+
+这个景点，单景点友情链接
+
+
+
+https://maps.app.goo.gl/o1op4p1Fq98DU4WF9
 
 
 

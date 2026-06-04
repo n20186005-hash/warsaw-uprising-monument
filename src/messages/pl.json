@@ -280,9 +280,11 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "council": "Warsaw Tourism",
       "tourism": "Polska Organizacja Turystyczna",
-      "gov": "Ministerstwo Spraw Zagranicznych RP"
+      "gov": "Ministerstwo Spraw Zagranicznych RP",
+      "nid": "Narodowy Instytut Dziedzictwa",
+      "museum": "Muzeum Powstania Warszawskiego",
+      "city": "Urząd m.st. Warszawy"
     },
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
   },
