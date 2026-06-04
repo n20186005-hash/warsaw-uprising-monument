@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/images (1).jpg"
+          src="/gallery/image-1.jpg"
           alt="Warsaw Uprising Monument"
           className="w-full h-full object-cover"
         />

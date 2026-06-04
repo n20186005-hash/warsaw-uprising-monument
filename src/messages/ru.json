@@ -209,7 +209,9 @@
       "Historical Commemorative Area",
       "Warsaw Skyline Background"
     ],
-    "viewAll": "View more photos on Google Maps"
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Показать все фото",
+    "hidePhotos": "Свернуть"
   },
   "reviews": {
     "title": "Visitor Reviews",

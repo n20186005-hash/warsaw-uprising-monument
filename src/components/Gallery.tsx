@@ -4,24 +4,29 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (2).jpg', alt: '华沙起义纪念碑全景' },
-  { src: '/gallery/images (3).jpg', alt: '战斗反抗雕塑群' },
-  { src: '/gallery/images (4).jpg', alt: '废墟求生雕塑群' },
-  { src: '/gallery/images (5).jpg', alt: '纪念广场全貌' },
-  { src: '/gallery/images (6).jpg', alt: '雕塑细节特写' },
-  { src: '/gallery/images (7).jpg', alt: '暮色氛围' },
-  { src: '/gallery/images (8).jpg', alt: '历史纪念区域' },
-  { src: '/gallery/images (9).jpg', alt: '华沙城市天际线' },
-  { src: '/gallery/images (10).jpg', alt: '华沙起义纪念碑全景' },
-  { src: '/gallery/images (11).jpg', alt: '战斗反抗雕塑群' },
-  { src: '/gallery/images (12).jpg', alt: '废墟求生雕塑群' },
-  { src: '/gallery/images (13).jpg', alt: '纪念广场全貌' },
+  { src: '/gallery/image-1.jpg', alt: '华沙起义纪念碑全景' },
+  { src: '/gallery/image-2.jpg', alt: '战斗反抗雕塑群' },
+  { src: '/gallery/image-3.jpg', alt: '废墟求生雕塑群' },
+  { src: '/gallery/image-4.jpg', alt: '纪念广场全貌' },
+  { src: '/gallery/image-5.jpg', alt: '雕塑细节特写' },
+  { src: '/gallery/image-6.jpg', alt: '暮色氛围' },
+  { src: '/gallery/image-7.jpg', alt: '历史纪念区域' },
+  { src: '/gallery/image-8.jpg', alt: '华沙城市天际线' },
+  { src: '/gallery/image-9.jpg', alt: '华沙起义纪念碑全景' },
+  { src: '/gallery/image-10.jpg', alt: '战斗反抗雕塑群' },
+  { src: '/gallery/image-11.jpg', alt: '废墟求生雕塑群' },
+  { src: '/gallery/image-12.jpg', alt: '纪念广场全貌' },
+  { src: '/gallery/image-13.jpg', alt: '雕塑细节特写' },
+  { src: '/gallery/image-14.jpg', alt: '暮色氛围' },
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
+  const [showAll, setShowAll] = useState(false);
+
+  const displayedPhotos = showAll ? photos : photos.slice(0, 8);
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
@@ -49,7 +54,7 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {photos.slice(0, 8).map((photo, i) => (
+              {displayedPhotos.map((photo, i) => (
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
@@ -94,6 +99,15 @@ export default function Gallery() {
             </button>
 
             <div className="flex justify-center mt-6 gap-4 items-center">
+              {photos.length > 8 && (
+                <button
+                  onClick={() => setShowAll(!showAll)}
+                  className="text-sm font-medium px-6 py-2.5 rounded-full transition-colors"
+                  style={{ background: 'var(--accent)', color: 'white' }}
+                >
+                  {showAll ? t('hidePhotos') : t('showAllPhotos')}
+                </button>
+              )}
               <a
                 href="https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
                 target="_blank"

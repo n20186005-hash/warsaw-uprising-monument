@@ -209,7 +209,9 @@
       "历史纪念区域",
       "华沙城市天际线"
     ],
-    "viewAll": "在 Google Maps 查看更多照片"
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片",
+    "hidePhotos": "收起"
   },
   "reviews": {
     "title": "游客评价",
