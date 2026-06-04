@@ -90,6 +90,26 @@ https://maps.app.goo.gl/o1op4p1Fq98DU4WF9
 
 
 
+
+
+照片画廊
+
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+
+检查照片名称是否正确并修正
+
+
+
+首屏背景图还是不显示
+
+C:\\Users\\Administrator\\Documents\\GitHub\\warsaw-uprising-monument\\public\\gallery\\images (1).jpg
+
+
+
+
+
+
+
 你正在用（Next.js开发）
 为一个新景点【Warsaw Uprising Monument】【warsawuprisingmonument】构建静态/Next.js 单页指南网站。
 页面只需要支持中文和英文双语言
