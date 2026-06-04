@@ -7,22 +7,24 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
-  const frUrl = `${baseUrl}/fr/cookie-settings`;
-  const zhUrl = `${baseUrl}/zh-Hant/cookie-settings`;
+  const baseUrl = 'https://warsawuprisingmonument.com';
+  
+  const languages: Record<string, string> = {
+    'zh': `${baseUrl}/zh/cookie-settings`,
+    'en': `${baseUrl}/en/cookie-settings`,
+    'pl': `${baseUrl}/pl/cookie-settings`,
+    'ru': `${baseUrl}/ru/cookie-settings`,
+    'de': `${baseUrl}/de/cookie-settings`,
+    'x-default': `${baseUrl}/cookie-settings`,
+  };
+
+  const { locale } = await params;
+  const selfUrl = languages[locale] || languages['zh'];
 
   return {
     alternates: {
-      canonical: itUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      canonical: selfUrl,
+      languages,
     },
   };
 }

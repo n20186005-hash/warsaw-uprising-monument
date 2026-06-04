@@ -4,6 +4,16 @@
 
 
 
+我们网站是
+
+warsawuprisingmonument.com
+
+检查一遍看下是否有错误
+
+
+
+
+
 4.8(5,373)
 
 https://maps.app.goo.gl/o1op4p1Fq98DU4WF9
@@ -106,6 +116,60 @@ C:\\Users\\Administrator\\Documents\\GitHub\\warsaw-uprising-monument\\public\\g
 
 
 
+页头名称错误Rubjerg Knude 修正
+
+删除
+
+探索更多 板块
+
+
+
+马佐夫舍省	Warsaw Uprising Monument
+
+华沙起义纪念碑
+
+Pomnik Powstania Warszawskiego
+
+4.8(5,373)
+
+纪念碑
+
+plac Krasińskich, 00-263 Warszawa, 波兰
+
+62X4+Q9 华沙 波兰
+
+
+
+https://maps.app.goo.gl/o1op4p1Fq98DU4WF9
+
+
+
+\### 填表内容
+
+1\. \*\*国家/地区\*\*：波兰（Poland）
+
+2\. \*\*地址\*\*：plac Krasińskich
+
+3\. \*\*地址2\*\*：（空着不填）
+
+4\. \*\*城市\*\*：Warszawa（华沙）
+
+5\. \*\*省/自治区/直辖市\*\*：马佐夫舍省（Mazowieckie Voivodeship）
+
+6\. \*\*邮政编码\*\*：00-263
+
+
+
+这个单景点地址买.com域名推荐
+
+
+
+
+
+
+
+
+
 
 
 
@@ -174,4 +238,14 @@ C:\\Users\\Administrator\\Documents\\GitHub\\warsaw-uprising-monument\\public\\g
 老城复古住宿：华沙老城范围内复古建筑居所，兼顾历史氛围与出行便利
 高性价比城市住宿：交通枢纽周边平价住处，配套完善，适合短途中转出行
 【住宿补充说明】华沙市中心治安稳定，日间游览安全无忧。旅游旺季与重大纪念节日住宿价格小幅上浮，建议提前预订。优先选择市中心及老城之间的住宿地段，可高效串联纪念碑、老城、巴比肯等多处历史景点。
+
+
+
+
+
+
+
+
+
+
 

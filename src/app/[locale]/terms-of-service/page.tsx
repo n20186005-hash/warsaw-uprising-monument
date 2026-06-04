@@ -8,23 +8,23 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const baseUrl = 'https://warsawuprisingmonument.com';
+  
+  const languages: Record<string, string> = {
+    'zh': `${baseUrl}/zh/terms-of-service`,
+    'en': `${baseUrl}/en/terms-of-service`,
+    'pl': `${baseUrl}/pl/terms-of-service`,
+    'ru': `${baseUrl}/ru/terms-of-service`,
+    'de': `${baseUrl}/de/terms-of-service`,
+    'x-default': `${baseUrl}/terms-of-service`,
+  };
+
+  const selfUrl = languages[locale] || languages['zh'];
 
   return {
     alternates: {
       canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      languages,
     },
   };
 }
@@ -34,7 +34,7 @@ function TermsContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = `/${locale}`;
   const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (

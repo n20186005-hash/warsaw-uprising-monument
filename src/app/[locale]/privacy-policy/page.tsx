@@ -8,24 +8,23 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const localePrefix = locale === 'it' ? '' : locale === 'en' ? '/en' : locale === 'fr' ? '/fr' : '/zh-Hant';
-  const itUrl = `${baseUrl}/privacy-policy`;
-  const enUrl = `${baseUrl}/en/privacy-policy`;
-  const frUrl = `${baseUrl}/fr/privacy-policy`;
-  const zhUrl = `${baseUrl}/zh-Hant/privacy-policy`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const baseUrl = 'https://warsawuprisingmonument.com';
+  
+  const languages: Record<string, string> = {
+    'zh': `${baseUrl}/zh/privacy-policy`,
+    'en': `${baseUrl}/en/privacy-policy`,
+    'pl': `${baseUrl}/pl/privacy-policy`,
+    'ru': `${baseUrl}/ru/privacy-policy`,
+    'de': `${baseUrl}/de/privacy-policy`,
+    'x-default': `${baseUrl}/privacy-policy`,
+  };
+
+  const selfUrl = languages[locale] || languages['zh'];
 
   return {
     alternates: {
       canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      languages,
     },
   };
 }
@@ -35,7 +34,7 @@ function PrivacyContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = locale === 'it' ? '/' : `/${locale}`;
+  const homeHref = `/${locale}`;
   const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
