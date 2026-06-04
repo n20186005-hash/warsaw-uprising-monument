@@ -13,8 +13,8 @@
   "hero": {
     "title": "华沙起义纪念碑",
     "subtitle": "华沙二战历史纪念地标、人文遗址与精神丰碑",
-    "rating": "4.8(5,331)",
-    "reviewCount": "5,331 条评价",
+    "rating": "4.8(5,373)",
+    "reviewCount": "5,373 条评价",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
@@ -76,7 +76,6 @@
     "city": "城市",
     "cityValue": "华沙",
     "googleRating": "谷歌评分",
-    "phone": "电话",
     "address": "地址",
     "addressValue": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland"
   },
@@ -110,13 +109,13 @@
   "transport": {
     "title": "交通方式",
     "airport": "从华沙肖邦国际机场出发",
-    "airportDesc": "搭乘机场快线或城际公交进入市中心，换乘市区电车快速抵达起义广场，全程通勤顺畅高效；机场网约车可直达纪念碑广场，适合携带行李、短途快速出行。",
+    "airportDesc": "搭乘 175 路公交车或 S2/S3 城市列车至市中心（Warszawa Centralna），换乘地铁 M1 线至 Ratusz Arsenał 站，步行约 8 分钟即可抵达华沙起义纪念碑。机场网约车可直达纪念碑广场，适合携带行李、短途快速出行。",
     "selfDrive": "自驾 / 网约车",
     "selfDriveDesc": "最为便捷的出行方式。华沙市中心路网发达，广场周边设有主要停车区，网约车全程覆盖，可直接送达纪念碑广场入口。",
     "bus": "从华沙中央火车站出发",
-    "busDesc": "搭乘地铁及短途公交，10分钟内即可抵达周边站点，步行3分钟到达景点，公共交通班次密集。",
+    "busDesc": "从华沙中央火车站（Warszawa Centralna）出发，可搭乘电车 15、18、35 路至 Muranów 站，或搭乘地铁 M1 线至 Ratusz Arsenał 站，下车后步行约 5-8 分钟即可到达。",
     "intercity": "从市中心 / 老城出发",
-    "intercityDesc": "从华沙老城、科学文化宫等核心景点步行或骑行均可串联游玩，城市步道连通完善。",
+    "intercityDesc": "从华沙老城广场（Rynek Starego Miasta）出发，向西步行约 10 分钟即可抵达；从科学文化宫出发，建议搭乘地铁 M1 线至 Ratusz Arsenał 站，城市步道连通完善。",
     "cycling": "骑行",
     "cyclingDesc": "城区公共骑行点位充足，适合短途跨景点移动。公共自行车站点遍布市中心，骑行前往纪念碑广场灵活便捷。",
     "tips": "出行建议",
@@ -210,7 +209,7 @@
       "历史纪念区域",
       "华沙城市天际线"
     ],
-    "viewAll": "在 Google Maps 查看位置"
+    "viewAll": "在 Google Maps 查看更多照片"
   },
   "reviews": {
     "title": "游客评价",
@@ -240,6 +239,30 @@
         "date": "2025年12月",
         "rating": 5,
         "text": "华沙精神的见证。纪念碑彰显了这座城市的坚韧不屈。周边区域非常适合静思与缅怀。"
+      },
+      {
+        "name": "李强",
+        "date": "2026年5月",
+        "rating": 5,
+        "text": "非常壮观的纪念碑，位于市中心。这是了解波兰历史的重要地点，强烈推荐！"
+      },
+      {
+        "name": "王伟",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "震撼人心，雕塑刻画得很细腻。每次来到这里都能感受到那种不屈的精神。"
+      },
+      {
+        "name": "刘洋",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "华沙必去景点之一！周围环境安静，晚上在灯光的映衬下更显得庄严肃穆。"
+      },
+      {
+        "name": "赵静",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "很有教育意义的地方，不仅纪念了战争中的英雄，也让人反思和平的来之不易。"
       }
     ]
   },
@@ -333,16 +356,40 @@
     "attractionsTitle": "附近景点",
     "toursTitle": "推荐行程与活动",
     "attractions": [
-      {"name": "华沙老城", "url": "https://www.warsawtour.pl"},
-      {"name": "皇家城堡", "url": "https://www.warsawtour.pl"},
-      {"name": "POLIN 犹太历史博物馆", "url": "https://www.polin.pl"},
-      {"name": "华沙巴比肯", "url": "https://www.warsawtour.pl"}
+      {
+        "name": "华沙老城",
+        "url": "https://www.warsawtour.pl"
+      },
+      {
+        "name": "皇家城堡",
+        "url": "https://www.warsawtour.pl"
+      },
+      {
+        "name": "POLIN 犹太历史博物馆",
+        "url": "https://www.polin.pl"
+      },
+      {
+        "name": "华沙巴比肯",
+        "url": "https://www.warsawtour.pl"
+      }
     ],
     "tours": [
-      {"name": "华沙二战历史之旅", "url": "https://www.warsawtour.pl"},
-      {"name": "华沙共产主义建筑漫步", "url": "https://www.warsawtour.pl"},
-      {"name": "华沙犹太遗产之旅", "url": "https://www.poland.travel"},
-      {"name": "华沙城市观光巴士之旅", "url": "https://www.warsawtour.pl"}
+      {
+        "name": "华沙二战历史之旅",
+        "url": "https://www.warsawtour.pl"
+      },
+      {
+        "name": "华沙共产主义建筑漫步",
+        "url": "https://www.warsawtour.pl"
+      },
+      {
+        "name": "华沙犹太遗产之旅",
+        "url": "https://www.poland.travel"
+      },
+      {
+        "name": "华沙城市观光巴士之旅",
+        "url": "https://www.warsawtour.pl"
+      }
     ]
   }
 }

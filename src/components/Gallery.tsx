@@ -4,18 +4,18 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '鲁比约角全景' },
-  { src: '/gallery/images (2).jpg', alt: '沙丘与灯塔' },
-  { src: '/gallery/images (3).jpg', alt: '北海海岸线' },
-  { src: '/gallery/images (4).jpg', alt: '流动沙丘' },
-  { src: '/gallery/images (5).jpg', alt: '临海悬崖' },
-  { src: '/gallery/images (6).jpg', alt: '海岸日落' },
-  { src: '/gallery/images (7).jpg', alt: '荒野风貌' },
-  { src: '/gallery/images (8).jpg', alt: '灯塔近景' },
-  { src: '/gallery/images (9).jpg', alt: '鲁比约角' },
-  { src: '/gallery/images (10).jpg', alt: '沙丘步道' },
-  { src: '/gallery/images (11).jpg', alt: '北海风光' },
-  { src: '/gallery/images (12).jpg', alt: '灯塔剪影' },
+  { src: '/gallery/images (2).jpg', alt: '华沙起义纪念碑全景' },
+  { src: '/gallery/images (3).jpg', alt: '战斗反抗雕塑群' },
+  { src: '/gallery/images (4).jpg', alt: '废墟求生雕塑群' },
+  { src: '/gallery/images (5).jpg', alt: '纪念广场全貌' },
+  { src: '/gallery/images (6).jpg', alt: '雕塑细节特写' },
+  { src: '/gallery/images (7).jpg', alt: '暮色氛围' },
+  { src: '/gallery/images (8).jpg', alt: '历史纪念区域' },
+  { src: '/gallery/images (9).jpg', alt: '华沙城市天际线' },
+  { src: '/gallery/images (10).jpg', alt: '华沙起义纪念碑全景' },
+  { src: '/gallery/images (11).jpg', alt: '战斗反抗雕塑群' },
+  { src: '/gallery/images (12).jpg', alt: '废墟求生雕塑群' },
+  { src: '/gallery/images (13).jpg', alt: '纪念广场全貌' },
 ];
 
 export default function Gallery() {
@@ -95,7 +95,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/4VwNPngCGCqifTnH6"
+                href="https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

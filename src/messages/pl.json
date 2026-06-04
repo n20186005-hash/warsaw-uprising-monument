@@ -4,19 +4,19 @@
     "description": "Complete guide to the Warsaw Uprising Monument. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Iconic WWII memorial and patriotic landmark in Warsaw."
   },
   "header": {
-    "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "home": "Strona główna",
+    "gallery": "Galeria",
+    "reviews": "Opinie",
+    "map": "Mapa",
+    "backToHome": "Wróć do strony głównej"
   },
   "hero": {
-    "title": "Warsaw Uprising Monument",
-    "subtitle": "Warsaw WWII Memorial Landmark, Patriotic Heritage Site",
+    "title": "Pomnik Powstania Warszawskiego",
+    "subtitle": "Warszawski pomnik historii II wojny światowej, miejsce dziedzictwa patriotycznego",
     "rating": "4.8(5,373)",
-    "reviewCount": "5,373 reviews",
-    "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "reviewCount": "5,373 opinie",
+    "hours": "Otwarte 24/7",
+    "openMaps": "Zobacz lokalizację"
   },
   "intro": {
     "title": "Discover the Warsaw Uprising Monument",
