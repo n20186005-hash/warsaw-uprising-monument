@@ -1,25 +1,32 @@
 {
   "meta": {
-    "title": "Warsaw Uprising Monument | Pomnik Powstania Warszawskiego - WWII Memorial Landmark in Warsaw, Poland",
-    "description": "Complete guide to the Warsaw Uprising Monument. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Iconic WWII memorial and patriotic landmark in Warsaw."
+    "title": "Warsaw Uprising Monument: Visitor Guide, History & Map",
+    "description": "Plan your visit to the Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) at Plac Krasińskich. Find location maps, history, and free visiting tips."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
+    "stories": "Stories",
+    "facilities": "Facilities",
     "reviews": "Reviews",
+    "faq": "FAQ",
     "map": "Map",
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Warsaw Uprising Monument",
-    "subtitle": "Warsaw WWII Memorial Landmark, Patriotic Heritage Site",
-    "rating": "4.8(5,373)",
-    "reviewCount": "5,373 reviews",
+    "title": "Warsaw Uprising Monument (Pomnik Powstania Warszawskiego)",
+    "subtitle": "1944 Warsaw Uprising Memorial · Plac Krasińskich · Free, Open 24/7",
+    "rating": "4.8(5,532)",
+    "reviewCount": "5,532 reviews",
     "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imgAlt": "Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) - main view in Warsaw, Poland"
   },
   "intro": {
     "title": "Discover the Warsaw Uprising Monument",
+    "lead": "The Warsaw Uprising Monument (Polish: Pomnik Powstania Warszawskiego), located at plac Krasińskich in Warsaw, was unveiled on 1 August 1989 and honors the heroes of the 1944 Warsaw Uprising — the largest military effort of any European resistance movement in World War II. This open-air memorial stands on the southern edge of Krasiński Square, in front of the Supreme Court building, and is free to visit 24/7.",
+    "learnMoreLabel": "Learn more:",
+    "linkMuseum": "Warsaw Uprising Museum",
     "description": "Standing before the Warsaw Uprising Monument, you will immediately feel enveloped by a solemn and profound atmosphere. The entire sculptural group, rendered in highly impactful realistic techniques, recreates the heroic moments of the 1944 Warsaw Uprising—the shattered structures, the struggling figures, all silently narrate the suffering and resistance this city once endured.\n\nThe square is quiet and solemn, free from commercial bustle. Visitors walk softly and slowly, standing in reverent contemplation. The two sculptural groups complement each other—one side depicting courageous fighters, the other showing civilians struggling to survive in the ruins. The intricate carving details fully present both the cruelty of war and the resilience of humanity.\n\nSurrounding modern buildings rise alongside this heavy historical landmark, creating a striking contrast that makes one appreciate the preciousness of peace even more. You can quietly circle the monument, absorbing the emotions conveyed by the sculptures, and reflect in the expansive memorial square, remembering this chapter of the city's past that must never be forgotten.\n\nAs twilight falls, cool light and shadows envelop the entire square, making the monument's silhouette increasingly dignified. This is not merely a sculptural landmark—it is Warsaw's spiritual pillar, witnessing destruction, resistance, and rebirth, allowing every visitor to understand the history and faith of this resilient city.",
     "visitGuide": {
       "title": "Visit Tips",
@@ -77,17 +84,17 @@
     "cityValue": "Warsaw",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland"
+    "addressValue": "plac Krasińskich, 00-263 Warszawa, Poland"
   },
   "hours": {
     "title": "Opening Hours",
     "outdoor": "Memorial Square & Monument",
     "outdoorTime": "Open 24/7 year-round, no restrictions",
-    "lighthouse": "Exhibition Room (Summer Season)",
-    "summer": "Summer (April 1 - October 31)",
-    "summerTime": "09:00-18:00",
-    "winter": "Winter (November 1 - March 31)",
-    "winterTime": "09:00-16:00, closed on Mondays",
+    "lighthouse": "Uprising Anniversary — 1 August",
+    "summer": "National ceremony held annually at the monument",
+    "summerTime": "Free to attend, open to the public",
+    "winter": "Other Commemorative Days",
+    "winterTime": "Special events throughout the year; the square remains open 24/7",
     "warning": "Special Notice",
     "warningTime": "Ceremonies and events are held on commemorative days and special occasions. The atmosphere is solemn and dignified.",
     "tip": "Recommended to visit during early morning or late afternoon for fewer crowds and better atmosphere"
@@ -96,28 +103,28 @@
     "title": "Ticket Prices",
     "outdoor": "Outdoor Memorial Square",
     "outdoorPrice": "Free admission, no entry fee",
-    "lighthouse": "Exhibition Room & Themed Display",
-    "adults": "Adults",
-    "adultsPrice": "Standard pricing",
-    "students": "Students & Seniors",
-    "studentsPrice": "Discounted pricing",
-    "children": "Children",
-    "childrenPrice": "Free admission",
-    "card": "Warsaw City Pass",
-    "cardPrice": "Can be used for discounted admission to exhibition rooms"
+    "lighthouse": "Free Monument & Paid Museum",
+    "adults": "Warsaw Uprising Monument",
+    "adultsPrice": "Free, open 24/7",
+    "students": "Warsaw Uprising Museum - standard ticket",
+    "studentsPrice": "35 z\u0142",
+    "children": "Museum - reduced ticket",
+    "childrenPrice": "30 z\u0142",
+    "card": "Good to know",
+    "cardPrice": "The museum (Wola district) is a separate paid attraction; the open-air monument on plac Krasi\u0144skich is always free."
   },
   "transport": {
     "title": "How to Get Here",
     "airport": "From Warsaw Chopin Airport",
-    "airportDesc": "Take bus 175 or S2/S3 urban trains to the city center (Warszawa Centralna), transfer to Metro Line M1 to Ratusz Arsenał station, and walk about 8 minutes to the monument. Ride-sharing from the airport can take you directly to the monument square.",
+    "airportDesc": "Take bus 175 or S2/S3 urban trains to the city center (Warszawa Centralna), then transfer to Metro Line M1 to Ratusz Arsenał station and walk about 8 minutes to plac Krasińskich. Ride-sharing from the airport can take you directly to the monument square.",
     "selfDrive": "Self-Drive / Ride-Share",
-    "selfDriveDesc": "The most convenient option. Warsaw's city center has well-developed road networks. Major parking areas surround the square. Ride-sharing services operate throughout the city with direct drop-off points near the memorial.",
+    "selfDriveDesc": "The most convenient option. Warsaw's city center has well-developed road networks. Ride-sharing services operate throughout the city with direct drop-off points near plac Krasińskich.",
     "bus": "From Warsaw Central Railway Station",
-    "busDesc": "From Warsaw Central Station (Warszawa Centralna), take tram 15, 18, or 35 to Muranów station, or take Metro Line M1 to Ratusz Arsenał station, then walk for about 5-8 minutes.",
+    "busDesc": "From Warsaw Central Station (Warszawa Centralna), take tram 15, 18, or 35 to Muranów station, or take Metro Line M1 to Ratusz Arsenał station, then walk 5-8 minutes to plac Krasińskich.",
     "intercity": "From City Center / Old Town",
-    "intercityDesc": "From Warsaw Old Town Square, walk west for about 10 minutes; from the Palace of Culture and Science, take Metro Line M1 to Ratusz Arsenał station. Well-connected walking trails make it very accessible.",
+    "intercityDesc": "From Warsaw Old Town Square (Rynek Starego Miasta), walk southwest for about 8 minutes to plac Krasińskich; from the Palace of Culture and Science, take Metro Line M1 to Ratusz Arsenał and walk 6 minutes. The square lies between the Old Town and the former Ghetto, so most central sights are within easy walking distance.",
     "cycling": "Cycling",
-    "cyclingDesc": "Warsaw has well-developed cycling paths. Public bike-sharing stations are available throughout the city center. Cycling to the monument square offers flexibility and allows you to explore surrounding areas at your own pace.",
+    "cyclingDesc": "Warsaw has well-developed cycling paths. Public bike-sharing stations are available throughout the city center. Cycling to plac Krasińskich offers flexibility and allows you to explore surrounding areas at your own pace.",
     "tips": "Travel Tips",
     "tipsDesc": "It is recommended to purchase a local transport day pass for unlimited metro, tram, and bus rides—ideal for visiting multiple attractions in succession. The city center has clear signage in multiple languages."
   },
@@ -207,7 +214,13 @@
       "Sculpture Details",
       "Evening Atmosphere",
       "Historical Commemorative Area",
-      "Warsaw Skyline Background"
+      "Warsaw Skyline Background",
+      "Warsaw Uprising Monument Panorama",
+      "Heroic Resistance Sculptures",
+      "Survival in Ruins Group",
+      "Memorial Square Overview",
+      "Sculpture Details",
+      "Evening Atmosphere"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show all photos",
@@ -270,8 +283,10 @@
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "subtitle": "plac Krasińskich, 00-263 Warszawa, Poland",
+    "openMaps": "View on Google Maps",
+    "authorityText": "For official updates and regional tourism information, visit",
+    "authorityLink": "Poland Official Tourism Portal"
   },
   "footer": {
     "rights": "© 2026 Warsaw Uprising Monument Independent Travel Research Association · All rights reserved.",
@@ -286,7 +301,8 @@
       "museum": "Warsaw Uprising Museum",
       "city": "City of Warsaw"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "photoCredit": "All images displayed on this website remain the property and copyright of their original photographers."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -355,45 +371,224 @@
     "title": "About Warsaw Uprising Monument",
     "text": "The Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) is managed and maintained by the Warsaw City Government and the Polish National Memorial. As Poland's most significant WWII memorial landmark, the monument commemorates the heroic resistance of the Polish people during the 1944 Warsaw Uprising.\n\nThe monument stands as a powerful symbol of Polish national spirit and serves as an important site for patriotic education, historical research, and solemn commemoration. Each year on the anniversary of the uprising, national ceremonies are held here, attended by government officials, veterans, and citizens. The memorial is open to the public free of charge and welcomes visitors from around the world to learn about this important chapter of history."
   },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
+  "nearby": {
+    "title": "Things to Do Near Warsaw Uprising Monument",
+    "subtitle": "Plac Krasińskich sits between the Old Town and the former Ghetto — pair the monument with these nearby sights.",
+    "viewMap": "View on Google Maps",
+    "items": [
+      {
+        "name": "Supreme Court of Poland",
+        "alt": "Sąd Najwyższy",
+        "distance": "On the same square",
+        "desc": "The monumental seat of Poland's highest court stands directly behind the monument on plac Krasińskich.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Supreme+Court+of+Poland+plac+Krasi%C5%84skich+Warsaw"
+      },
+      {
+        "name": "Krasiński Palace",
+        "alt": "Pałac Krasińskich",
+        "distance": "100 m",
+        "desc": "A magnificent 17th-century Baroque palace on the north side of the square, today part of the National Library of Poland.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krasi%C5%84skich+Warsaw"
+      },
       {
         "name": "Warsaw Old Town",
-        "url": "https://www.warsawtour.pl"
+        "alt": "Stare Miasto",
+        "distance": "600 m · 8 min walk",
+        "desc": "UNESCO World Heritage site with the Royal Castle, Market Square, St. John's Cathedral and the Barbican.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Old+Town"
       },
       {
-        "name": "Royal Castle",
-        "url": "https://www.warsawtour.pl"
+        "name": "POLIN Museum of the History of Polish Jews",
+        "alt": "POLIN",
+        "distance": "900 m · 12 min walk",
+        "desc": "Award-winning museum on the site of the former Warsaw Ghetto, an easy walk west from the square.",
+        "url": "https://www.google.com/maps/search/?api=1&query=POLIN+Museum+Warsaw"
       },
       {
-        "name": "POLIN Museum",
-        "url": "https://www.polin.pl"
-      },
-      {
-        "name": "Warsaw Barbican",
-        "url": "https://www.warsawtour.pl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "Warsaw WWII History Tour",
-        "url": "https://www.warsawtour.pl"
-      },
-      {
-        "name": "Communist Architecture Walk",
-        "url": "https://www.warsawtour.pl"
-      },
-      {
-        "name": "Warsaw Jewish Heritage Tour",
-        "url": "https://www.poland.travel"
-      },
-      {
-        "name": "Warsaw City Hop-on Hop-off Tour",
-        "url": "https://www.warsawtour.pl"
+        "name": "Warsaw Uprising Museum",
+        "alt": "Muzeum Powstania Warszawskiego",
+        "distance": "2.6 km · tram ride",
+        "desc": "The definitive museum on the 1944 uprising, housed in a former tram power station in the Wola district.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Uprising+Museum"
       }
     ]
+  },
+  "facilities": {
+    "title": "On-Site & Nearby Facilities",
+    "subtitle": "The memorial square itself is free of commercial facilities. Here is what you can typically find within walking distance around plac Krasi\u0144skich.",
+    "items": [
+      {
+        "icon": "toilet",
+        "title": "Public Toilets",
+        "desc": "There are no public toilets inside the memorial square. The nearest public toilets are around the Old Town Market Square and city-centre facilities, about 8\u201310 minutes on foot. Use the toilets at transport hubs or shopping centres before you arrive.",
+        "hint": "Nearby \u00b7 8\u201310 min walk"
+      },
+      {
+        "icon": "parking",
+        "title": "Parking",
+        "desc": "plac Krasi\u0144skich lies inside Warsaw's paid parking zone, where street spots are limited and time-restricted. Several multi-storey car parks operate in the wider city centre. Public transport is the easiest way to reach the square.",
+        "hint": "Paid zone"
+      },
+      {
+        "icon": "food",
+        "title": "Dining & Caf\u00e9s",
+        "desc": "The memorial square has no restaurants or kiosks. Within a 5\u201315 minute walk, the Old Town and city centre offer a wide choice of caf\u00e9s, restaurants, bistros and fast-food outlets in every price range.",
+        "hint": "5\u201315 min walk"
+      },
+      {
+        "icon": "bed",
+        "title": "Hotels & Lodging",
+        "desc": "Accommodation in Warsaw's centre and Old Town ranges from hostels and budget hotels to upscale hotels. The area directly around the square is mostly offices and public buildings, so most hotels are a 10\u201320 minute walk away. See the Accommodation section for guidance.",
+        "hint": "See Accommodation"
+      },
+      {
+        "icon": "shop",
+        "title": "Groceries & Convenience",
+        "desc": "Convenience stores and supermarkets are common across central Warsaw and many stay open late. The nearest shopping streets run towards the Old Town and Nowy \u015awiat, about 10 minutes on foot.",
+        "hint": "Nearby"
+      },
+      {
+        "icon": "fuel",
+        "title": "Fuel & EV Charging",
+        "desc": "Petrol stations are scarce in the historic centre and public EV chargers are still limited around plac Krasi\u0144skich. If driving, refuel or charge before entering the city centre and follow local parking signs.",
+        "hint": "Plan ahead"
+      }
+    ],
+    "note": "As a non-commercial educational website we do not recommend specific businesses \u2014 the list above covers the types of facilities typically found nearby."
+  },
+  "stories": {
+    "title": "History, Stories & Living Traditions",
+    "subtitle": "Documented facts and living memory behind Warsaw's most important monument.",
+    "kinds": {
+      "documented": "Documented history",
+      "memory": "Memory & symbolism",
+      "tradition": "Living tradition"
+    },
+    "items": [
+      {
+        "kind": "documented",
+        "title": "A citizens' monument, two decades in the making",
+        "text": "Ideas for a memorial to the 1944 uprising circulated for years, but it was only in the early 1980s that a civic committee gathered public donations and materials. The foundation act was laid on 31 July 1984, on the eve of the uprising's 40th anniversary, and a design competition was announced in December 1984. The monument was finally unveiled on 1 August 1989, exactly 45 years after the outbreak of the uprising \u2014 one of the last great memorial projects completed before the end of communist rule."
+      },
+      {
+        "kind": "documented",
+        "title": "Sculptor Wincenty Ku\u0107ma and architect Jacek Budyn",
+        "text": "The winning design was created by sculptor Wincenty Ku\u0107ma and architect Jacek Budyn. Their monumental, narrative composition in grey granite broke with the abstract style favoured at the time, bringing realistic, expressive sculpture back into Warsaw's public space."
+      },
+      {
+        "kind": "memory",
+        "title": "The sewers: the monument's most haunting motif",
+        "text": "One sculptural group shows insurgents descending into a sewer opening, another shows fighters emerging from the rubble. During the 63 days of the uprising, Warsaw's sewers were used to move people, supplies and messages between districts \u2014 and, in the final weeks, to evacuate fighters from the Old Town. The motif has become one of the most powerful symbols of the Warsaw Uprising."
+      },
+      {
+        "kind": "memory",
+        "title": "The wall of ruins",
+        "text": "The monument is built around broken walls and crumbling masonry. After the uprising and the systematic destruction that followed, around 85% of Warsaw lay in ruins. The fractured wall of the monument stands both for the destroyed city and for the defiance that rose out of it."
+      },
+      {
+        "kind": "tradition",
+        "title": "Godzina W \u2014 the city stops",
+        "text": "The uprising began at 17:00 on 1 August 1944 \u2014 the so-called Godzina W ('W Hour'). Every year at 5 pm on 1 August, sirens sound across the city and Warsaw stops for a minute of silence. At the monument itself, wreaths are laid and national ceremonies are held, attended by veterans, officials and crowds of citizens."
+      },
+      {
+        "kind": "documented",
+        "title": "A square that was a battlefield",
+        "text": "plac Krasi\u0144skich was no quiet backdrop: during the uprising, the Krasi\u0144ski Palace on the north edge of the square was seized by German forces and used as a stronghold, and the area saw heavy fighting as insurgents tried to retake it. Building the national monument here, on the edge of the Old Town and on this very battleground, was a deliberate act of memory."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Practical answers to help you plan your visit.",
+    "items": [
+      {
+        "q": "Is the Warsaw Uprising Monument free to visit?",
+        "a": "Yes. The monument is an open-air memorial on public land \u2014 there is no entrance fee and it can be visited around the clock, every day of the year."
+      },
+      {
+        "q": "What are the opening hours?",
+        "a": "The memorial square is open 24/7, 365 days a year, with no restrictions. The annual anniversary ceremonies take place on 1 August."
+      },
+      {
+        "q": "How do I get to plac Krasi\u0144skich?",
+        "a": "Metro line M1 stops at Ratusz Arsena\u0142, about a 5\u20138 minute walk away. Trams and buses serve nearby stops, and the Old Town is about 8 minutes on foot. The square lies between the Old Town and the former Ghetto."
+      },
+      {
+        "q": "How much time should I allow for a visit?",
+        "a": "A quiet visit takes about 40 minutes \u2014 circling the sculptures and reading the commemorative plaques. History enthusiasts can easily spend 1.5 hours combining the monument with the Krasi\u0144ski Palace and the Old Town."
+      },
+      {
+        "q": "Are there toilets, caf\u00e9s or shops at the monument?",
+        "a": "No commercial facilities are located inside the memorial square. Public toilets, caf\u00e9s and shops are available within a 5\u201315 minute walk in the Old Town and city centre."
+      },
+      {
+        "q": "What happens at the monument on 1 August?",
+        "a": "Every 1 August, Poland marks the anniversary of the outbreak of the uprising. At 17:00 (Godzina W) sirens sound across Warsaw and a minute of silence is observed. Official ceremonies and wreath-layings are held at the monument."
+      },
+      {
+        "q": "Can I take photos at the monument?",
+        "a": "Yes, photography is welcome. Please keep a solemn tone \u2014 do not climb the sculptures \u2014 and note that drones are generally prohibited over memorial sites in Warsaw."
+      },
+      {
+        "q": "Is the monument wheelchair-accessible?",
+        "a": "Yes. The monument stands in an open, flat square with accessible paved paths, and there are no stairs or buildings to enter. It is generally easy to reach for wheelchair users."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Further Reading",
+    "subtitle": "Independent, non-commercial reference material used for this guide.",
+    "items": [
+      {
+        "name": "Wikipedia \u2014 Warsaw Uprising Monument (English)",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument"
+      },
+      {
+        "name": "Warsaw Uprising Museum (official website)",
+        "url": "https://www.1944.pl/en/"
+      },
+      {
+        "name": "Wikipedia \u2014 Pomnik Powstania Warszawskiego (Polish)",
+        "url": "https://pl.wikipedia.org/wiki/Pomnik_Powstania_Warszawskiego"
+      },
+      {
+        "name": "Culture.pl \u2014 Ku\u0107ma and Budyn, Warsaw Uprising Monument",
+        "url": "https://culture.pl/pl/dzielo/wincenty-kucma-i-jacek-budyn-pomnik-powstania-warszawskiego"
+      },
+      {
+        "name": "City of Warsaw (official website)",
+        "url": "https://www.um.warszawa.pl/en"
+      },
+      {
+        "name": "Google Maps \u2014 plac Krasi\u0144skich location",
+        "url": "https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather in Warsaw",
+    "subtitle": "Live conditions and a 5-day outlook for the monument area, to help you plan your visit.",
+    "current": "Current Conditions",
+    "today": "Today",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipitation": "Precipitation",
+    "forecast": "5-Day Forecast",
+    "precipProb": "Rain chance",
+    "updated": "Updated",
+    "updatedSoon": "Weather data refreshes automatically every hour.",
+    "sourceNote": "Weather data by Open-Meteo",
+    "unavailable": "Weather data is temporarily unavailable. Please check the local forecast before your visit.",
+    "codes": {
+      "clear": "Clear sky",
+      "partly": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "thunder": "Thunderstorm"
+    }
   }
 }

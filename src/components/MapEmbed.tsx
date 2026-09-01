@@ -25,13 +25,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.5!2d20.99!3d52.24!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8a!2sWarsaw%20Uprising%20Monument!5e0!3m2!1sen!2spl!4v1700000000000!5m2!1sen!2spl"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d34772.16777256827!2d21.0103553!3d52.2302171!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc6550898547%3A0xcbbf14e23e57a1fe!2z5Y2O5rKZ6LW35LmJ57qq5b-156KR!5e1!3m2!1szh-CN!2s!4v1788268657924!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Warsaw Uprising Monument"
           />
         </div>
@@ -57,6 +57,23 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Authoritative outbound link (official tourism portal) */}
+        <p
+          className="mt-6 text-center text-sm"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          {t('authorityText')}{' '}
+          <a
+            href="https://www.poland.travel/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline font-medium"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLink')}
+          </a>
+        </p>
       </div>
     </section>
   );

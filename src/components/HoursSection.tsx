@@ -66,10 +66,13 @@ function TimeCard({ title, time, timeValue, iconKey }: { title: string; time?: s
     ),
     lighthouse: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-        <path d="M12 2L8 22h8L12 2z"/>
-        <circle cx="12" cy="8" r="3"/>
-        <path d="M2 12h4"/>
-        <path d="M18 12h4"/>
+        <path d="M3 21h18"/>
+        <path d="M5 21V7l8-4v18"/>
+        <path d="M19 21V11l-6-4"/>
+        <path d="M9 9v.01"/>
+        <path d="M9 12v.01"/>
+        <path d="M9 15v.01"/>
+        <path d="M9 18v.01"/>
       </svg>
     ),
     calendar: (

@@ -1,25 +1,32 @@
 {
   "meta": {
-    "title": "华沙起义纪念碑 Warsaw Uprising Monument｜华沙二战历史纪念地标与人文圣地 - 最佳欧洲景点",
-    "description": "探索华沙起义纪念碑(Pomnik Powstania Warszawskiego)的完整指南。了解开放时间、交通路线、门票信息、游览攻略和精彩照片。波兰最具分量的二战纪念地标与华沙精神丰碑。"
+    "title": "华沙起义纪念碑 Warsaw Uprising Monument：游览指南、历史与地图",
+    "description": "计划游览华沙起义纪念碑（波兰语 Pomnik Powstania Warszawskiego，繁體：華沙起義），位于克拉辛斯基广场。获取地图定位、历史背景与免费游览贴士。"
   },
   "header": {
     "home": "首页",
     "gallery": "图库",
+    "stories": "历史故事",
+    "facilities": "配套设施",
     "reviews": "评价",
+    "faq": "常见问题",
     "map": "地图",
     "backToHome": "返回首页"
   },
   "hero": {
     "title": "华沙起义纪念碑",
-    "subtitle": "华沙二战历史纪念地标、人文遗址与精神丰碑",
-    "rating": "4.8(5,373)",
-    "reviewCount": "5,373 条评价",
+    "subtitle": "纪念1944年华沙起义 · 克拉辛斯基广场 · 免费开放 24/7",
+    "rating": "4.8(5,532)",
+    "reviewCount": "5,532 条评价",
     "hours": "全天开放",
-    "openMaps": "查看位置"
+    "openMaps": "查看位置",
+    "imgAlt": "华沙起义纪念碑（Pomnik Powstania Warszawskiego）——位于波兰华沙的主视图"
   },
   "intro": {
     "title": "探索华沙起义纪念碑",
+    "lead": "华沙起义纪念碑（波兰语：Pomnik Powstania Warszawskiego，繁體：華沙起義）坐落于华沙克拉辛斯基广场（plac Krasińskich），于1989年8月1日落成，纪念1944年华沙起义的英雄——这是第二次世界大战中欧洲抵抗运动最大规模的武装行动。这座露天纪念碑位于最高法院大楼前方、克拉辛斯基广场南缘，免费开放，全年全天候可参观。",
+    "learnMoreLabel": "了解更多：",
+    "linkMuseum": "华沙起义博物馆",
     "description": "站在华沙起义纪念碑前，瞬间会被一股沉重又肃穆的氛围包裹。整座雕塑群以极具冲击力的写实手法，复刻1944年华沙起义的悲壮瞬间，破碎的结构、挣扎的人物形态，无声诉说着这座城市曾经的苦难与抗争。\n\n广场安静肃穆，没有喧闹的商业气息，往来游人大多轻声缓步，心怀敬畏驻足凝望。两组雕塑相互呼应，一侧是奋勇抗争的战士，一侧是在废墟中求生的平民，细腻的雕刻细节，将战争的残酷与人性的坚韧完整呈现。\n\n周遭城市楼宇林立，现代都市的繁华与眼前沉重的历史地标形成强烈对比，让人更加懂得和平的珍贵。你可以静静环绕纪念碑慢行，细细感受雕塑传递的情绪，在开阔的纪念广场放空沉思，铭记一段不能忘却的城市过往。\n\n天色沉落时，冷调光影笼罩整片广场，纪念碑轮廓愈发庄严。这里不只是一座雕塑地标，更是华沙的精神丰碑，见证毁灭、反抗与重生，让每一位到访者读懂这座坚韧城市的过往与信仰。",
     "visitGuide": {
       "title": "游览建议",
@@ -77,17 +84,17 @@
     "cityValue": "华沙",
     "googleRating": "谷歌评分",
     "address": "地址",
-    "addressValue": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland"
+    "addressValue": "plac Krasińskich（克拉辛斯基广场）, 00-263 Warszawa, 波兰"
   },
   "hours": {
     "title": "开放时间",
     "outdoor": "纪念碑广场",
     "outdoorTime": "全年全天开放，无门禁限制",
-    "lighthouse": "纪念园区小型陈列室",
-    "summer": "夏季（4月1日 - 10月31日）",
-    "summerTime": "09:00-18:00",
-    "winter": "冬季（11月1日 - 3月31日）",
-    "winterTime": "09:00-16:00，周一闭馆休整",
+    "lighthouse": "起义纪念日 — 8月1日",
+    "summer": "纪念碑前每年举行全国纪念仪式",
+    "summerTime": "免费参加，面向公众开放",
+    "winter": "其他纪念日",
+    "winterTime": "全年不定期举行特别活动；广场始终 24/7 开放",
     "warning": "特殊提示",
     "warningTime": "纪念日与特殊节日会举办仪式活动，氛围庄重肃穆",
     "tip": "建议清晨或傍晚时段前往，光线柔和、人流较少、氛围更佳"
@@ -96,28 +103,28 @@
     "title": "门票价格",
     "outdoor": "户外纪念碑广场",
     "outdoorPrice": "免费开放，无入园费用",
-    "lighthouse": "园区内部史料展厅、主题陈列空间",
-    "adults": "成人",
-    "adultsPrice": "标准票价",
-    "students": "学生与长者",
-    "studentsPrice": "优惠票价",
-    "children": "儿童",
-    "childrenPrice": "免费参观",
-    "card": "华沙城市通卡",
-    "cardPrice": "可通用抵扣参观费用"
+    "lighthouse": "免费纪念碑与收费博物馆",
+    "adults": "华沙起义纪念碑",
+    "adultsPrice": "免费，全天开放",
+    "students": "华沙起义博物馆 · 标准票",
+    "studentsPrice": "35 兹罗提",
+    "children": "博物馆 · 优惠票",
+    "childrenPrice": "30 兹罗提",
+    "card": "温馨提示",
+    "cardPrice": "博物馆位于沃拉区，为独立收费景点；克拉辛斯基广场上的露天纪念碑始终免费。"
   },
   "transport": {
     "title": "交通方式",
     "airport": "从华沙肖邦国际机场出发",
-    "airportDesc": "搭乘 175 路公交车或 S2/S3 城市列车至市中心（Warszawa Centralna），换乘地铁 M1 线至 Ratusz Arsenał 站，步行约 8 分钟即可抵达华沙起义纪念碑。机场网约车可直达纪念碑广场，适合携带行李、短途快速出行。",
+    "airportDesc": "搭乘 175 路公交车或 S2/S3 城市列车至市中心（Warszawa Centralna），换乘地铁 M1 线至 Ratusz Arsenał 站，步行约 8 分钟即可抵达克拉辛斯基广场。机场网约车可直达纪念碑广场，适合携带行李、短途快速出行。",
     "selfDrive": "自驾 / 网约车",
-    "selfDriveDesc": "最为便捷的出行方式。华沙市中心路网发达，广场周边设有主要停车区，网约车全程覆盖，可直接送达纪念碑广场入口。",
+    "selfDriveDesc": "最为便捷的出行方式。华沙市中心路网发达，网约车全程覆盖，可直接送达克拉辛斯基广场（plac Krasińskich）入口。",
     "bus": "从华沙中央火车站出发",
-    "busDesc": "从华沙中央火车站（Warszawa Centralna）出发，可搭乘电车 15、18、35 路至 Muranów 站，或搭乘地铁 M1 线至 Ratusz Arsenał 站，下车后步行约 5-8 分钟即可到达。",
+    "busDesc": "从华沙中央火车站（Warszawa Centralna）出发，可搭乘电车 15、18、35 路至 Muranów 站，或搭乘地铁 M1 线至 Ratusz Arsenał 站，下车后步行约 5-8 分钟即可到达克拉辛斯基广场。",
     "intercity": "从市中心 / 老城出发",
-    "intercityDesc": "从华沙老城广场（Rynek Starego Miasta）出发，向西步行约 10 分钟即可抵达；从科学文化宫出发，建议搭乘地铁 M1 线至 Ratusz Arsenał 站，城市步道连通完善。",
+    "intercityDesc": "从华沙老城广场（Rynek Starego Miasta）出发，向西南步行约 8 分钟即可抵达克拉辛斯基广场；从科学文化宫出发，建议搭乘地铁 M1 线至 Ratusz Arsenał 站后步行 6 分钟。广场位于老城与前犹太区之间，市中心主要景点均可步行串联。",
     "cycling": "骑行",
-    "cyclingDesc": "城区公共骑行点位充足，适合短途跨景点移动。公共自行车站点遍布市中心，骑行前往纪念碑广场灵活便捷。",
+    "cyclingDesc": "城区公共骑行点位充足，适合短途跨景点移动。公共自行车站点遍布市中心，骑行前往克拉辛斯基广场灵活便捷。",
     "tips": "出行建议",
     "tipsDesc": "建议购买当地交通日票，不限次乘坐地铁、电车与公交，适合多景点连贯游览。市中心标识清晰，多语种导览完善。"
   },
@@ -207,7 +214,13 @@
       "雕塑细节特写",
       "暮色氛围",
       "历史纪念区域",
-      "华沙城市天际线"
+      "华沙城市天际线",
+      "华沙起义纪念碑全景",
+      "战斗反抗雕塑群",
+      "废墟求生雕塑群",
+      "纪念广场全貌",
+      "雕塑细节特写",
+      "暮色氛围"
     ],
     "viewAll": "在 Google Maps 查看更多照片",
     "showAllPhotos": "显示全部照片",
@@ -270,8 +283,10 @@
   },
   "mapSection": {
     "title": "交通指南",
-    "subtitle": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland",
-    "openMaps": "在 Google Maps 查看"
+    "subtitle": "plac Krasińskich（克拉辛斯基广场）, 00-263 Warszawa, 波兰",
+    "openMaps": "在 Google Maps 查看",
+    "authorityText": "获取官方最新资讯与地区旅游信息，请访问",
+    "authorityLink": "波兰官方旅游门户"
   },
   "footer": {
     "rights": "© 2026 华沙起义纪念碑独立旅游研究协会 · 保留所有权利。",
@@ -286,7 +301,8 @@
       "museum": "华沙起义博物馆",
       "city": "华沙市政府"
     },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "photoCredit": "本网站所展示的所有图片产权及版权均归原摄影者所有。"
   },
   "privacy": {
     "title": "隐私政策",
@@ -355,45 +371,224 @@
     "title": "关于华沙起义纪念碑",
     "text": "华沙起义纪念碑（Pomnik Powstania Warszawskiego）由华沙市政府与波兰国家纪念事务管理局共同管理维护，是波兰最具分量的二战纪念地标，承载着纪念1944年华沙起义英勇抗争历史的重要使命。\n\n纪念碑作为波兰民族精神的重要象征，是爱国教育、历史研究与肃穆悼告的重要场所。每年起义纪念日，国家级纪念仪式在此举办，政府官员、老兵与市民共同参与。纪念碑免费向公众开放，欢迎世界各地游客前来了解这段重要的历史。"
   },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
-    "attractions": [
+  "nearby": {
+    "title": "华沙起义纪念碑周边怎么玩",
+    "subtitle": "克拉辛斯基广场地处老城与前犹太区之间——可将纪念碑与以下景点串联游览。",
+    "viewMap": "在 Google Maps 查看",
+    "items": [
+      {
+        "name": "波兰最高法院",
+        "alt": "Sąd Najwyższy",
+        "distance": "同一广场",
+        "desc": "波兰最高法院的宏伟建筑就矗立在纪念碑后方的克拉辛斯基广场上。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Supreme+Court+of+Poland+plac+Krasi%C5%84skich+Warsaw"
+      },
+      {
+        "name": "克拉辛斯基宫",
+        "alt": "Pałac Krasińskich",
+        "distance": "100 米",
+        "desc": "广场北侧一座 17 世纪巴洛克式宫殿，现为波兰国家图书馆的一部分。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krasi%C5%84skich+Warsaw"
+      },
       {
         "name": "华沙老城",
-        "url": "https://www.warsawtour.pl"
+        "alt": "Stare Miasto",
+        "distance": "600 米 · 步行约 8 分钟",
+        "desc": "联合国教科文组织世界遗产地，含皇家城堡、老城集市广场、圣约翰主教座堂与巴比肯城墙。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Old+Town"
       },
       {
-        "name": "皇家城堡",
-        "url": "https://www.warsawtour.pl"
+        "name": "POLIN 波兰犹太人历史博物馆",
+        "alt": "POLIN",
+        "distance": "900 米 · 步行约 12 分钟",
+        "desc": "坐落于前华沙犹太区遗址上的获奖博物馆，从广场向西步行即可到达。",
+        "url": "https://www.google.com/maps/search/?api=1&query=POLIN+Museum+Warsaw"
       },
       {
-        "name": "POLIN 犹太历史博物馆",
-        "url": "https://www.polin.pl"
-      },
-      {
-        "name": "华沙巴比肯",
-        "url": "https://www.warsawtour.pl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "华沙二战历史之旅",
-        "url": "https://www.warsawtour.pl"
-      },
-      {
-        "name": "华沙共产主义建筑漫步",
-        "url": "https://www.warsawtour.pl"
-      },
-      {
-        "name": "华沙犹太遗产之旅",
-        "url": "https://www.poland.travel"
-      },
-      {
-        "name": "华沙城市观光巴士之旅",
-        "url": "https://www.warsawtour.pl"
+        "name": "华沙起义博物馆",
+        "alt": "Muzeum Powstania Warszawskiego",
+        "distance": "2.6 公里 · 电车可达",
+        "desc": "全面讲述 1944 年华沙起义的权威博物馆，位于沃拉区一座旧电车发电站内。",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Uprising+Museum"
       }
     ]
+  },
+  "facilities": {
+    "title": "现场及周边配套设施",
+    "subtitle": "纪念碑广场内没有商业设施。以下为克拉辛斯基广场步行范围内常见的配套情况，供你规划行程参考。",
+    "items": [
+      {
+        "icon": "toilet",
+        "title": "公共卫生间",
+        "desc": "纪念碑广场内没有公共卫生间。最近的公厕位于老城市场广场及市中心公共设施中，步行约 8–10 分钟。建议出发前在地铁站、火车站或商场使用卫生间。",
+        "hint": "附近 · 步行 8–10 分钟"
+      },
+      {
+        "icon": "parking",
+        "title": "停车",
+        "desc": "克拉辛斯基广场位于华沙市中心付费停车区内，街边车位有限且有时段限制，周边设有多处公共停车场。前往广场最方便的方式是乘坐公共交通。",
+        "hint": "付费停车区"
+      },
+      {
+        "icon": "food",
+        "title": "餐饮与咖啡馆",
+        "desc": "纪念碑广场内没有餐厅或小卖部。步行 5–15 分钟范围内的老城与市中心聚集了各价位的咖啡馆、餐厅、小酒馆与快餐店。",
+        "hint": "步行 5–15 分钟"
+      },
+      {
+        "icon": "bed",
+        "title": "酒店与住宿",
+        "desc": "华沙市中心与老城提供从青年旅舍、经济型酒店到高档酒店的多种住宿选择。广场周边以办公与公共建筑为主，大多数酒店需步行 10–20 分钟。可参考本站住宿板块。",
+        "hint": "参见住宿板块"
+      },
+      {
+        "icon": "shop",
+        "title": "商超与便利店",
+        "desc": "华沙市中心便利店与超市分布广泛，许多营业至深夜。最近的购物街区位于老城与新世界街方向，步行约 10 分钟。",
+        "hint": "附近"
+      },
+      {
+        "icon": "fuel",
+        "title": "加油与充电",
+        "desc": "历史城区内加油站稀少，克拉辛斯基广场周边的公共电动车充电桩仍有限。自驾请尽量在进入市中心前加满油或充好电，并留意路边的停车指示。",
+        "hint": "建议提前规划"
+      }
+    ],
+    "note": "本站为非商业科普网站，不推荐任何具体商户——以上仅列出周边通常存在的设施类型，供出行参考。"
+  },
+  "stories": {
+    "title": "历史、故事与纪念传统",
+    "subtitle": "这座华沙最重要纪念碑背后的有据史实与鲜活记忆。",
+    "kinds": {
+      "documented": "有据可考",
+      "memory": "记忆与象征",
+      "tradition": "纪念传统"
+    },
+    "items": [
+      {
+        "kind": "documented",
+        "title": "一座历时多年的公民纪念碑",
+        "text": "为华沙起义修建纪念碑的构想酝酿多年，直到 1980 年代初，公民委员会发起募捐，汇集了民众的资金与材料。1984 年 7 月 31 日——起义 40 周年纪念日前夕——纪念碑奠基，同年 12 月公布设计竞赛。纪念碑最终于 1989 年 8 月 1 日、起义爆发整整 45 周年之际落成，成为共产主义政权末期完成的重要纪念工程之一。"
+      },
+      {
+        "kind": "documented",
+        "title": "雕塑家库奇马与建筑师布丁",
+        "text": "竞赛中选方案出自雕塑家温森蒂·库奇马（Wincenty Kućma）与建筑师雅采克·布丁（Jacek Budyn）之手。他们以灰色花岗岩创作的宏大叙事性组雕，打破了当时流行的抽象风格，将写实、富有表现力的雕塑重新带回华沙的公共空间。"
+      },
+      {
+        "kind": "memory",
+        "title": "下水道：纪念碑最令人动容的意象",
+        "text": "组雕中有一组刻画起义者进入下水道口的场景，另一组则表现战士从废墟中冲出。在起义的 63 天里，华沙的下水道被用来在各区之间转移人员、物资与情报；起义最后阶段，老城的战士也经由下水道撤离。这一意象已成为华沙起义最有力的象征之一。"
+      },
+      {
+        "kind": "memory",
+        "title": "残垣断壁",
+        "text": "纪念碑以残破的墙体与坍塌的石料为基本元素。起义及随后的系统性破坏之后，华沙约有 85% 的城区化为废墟。纪念碑上断裂的墙面，既象征被摧毁的城市，也象征从废墟中重新站起的抗争。"
+      },
+      {
+        "kind": "tradition",
+        "title": "W 时刻——整座城市为之停驻",
+        "text": "1944 年 8 月 1 日 17:00，起义爆发——这一天被称作“W 时刻”（Godzina W）。此后每年 8 月 1 日 17:00，警报会在华沙全城响起，城市为逝者静默一分钟。纪念碑前会举行献花与国家纪念仪式，老兵、官员与市民共同参加。"
+      },
+      {
+        "kind": "documented",
+        "title": "曾是战场的广场",
+        "text": "克拉辛斯基广场并非安静的背景：起义期间，广场北缘的克拉辛斯基宫被德军占据并作为据点，起义军反复试图夺回，这一带战况惨烈。将国家纪念碑建在这里——老城边缘、昔日战场之上——是一种深思熟虑的历史选择。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "为你的行程提供实用解答。",
+    "items": [
+      {
+        "q": "华沙起义纪念碑免费参观吗？",
+        "a": "免费。纪念碑是位于公共用地上的露天纪念场所——无门票，全年每天 24 小时均可参观。"
+      },
+      {
+        "q": "开放时间是什么？",
+        "a": "纪念广场全年 365 天 24/7 开放，无门禁限制。每年 8 月 1 日举行周年纪念仪式。"
+      },
+      {
+        "q": "如何前往克拉辛斯基广场？",
+        "a": "地铁 M1 线在 Ratusz Arsenał 站停靠，步行约 5–8 分钟即到；附近有电车与公交站；距老城步行约 8 分钟。广场地处老城与前犹太区之间。"
+      },
+      {
+        "q": "参观大约需要多长时间？",
+        "a": "安静参观约需 40 分钟——绕行雕塑并阅读纪念铭牌。历史爱好者可结合克拉辛斯基宫与老城，轻松花上 1.5 小时。"
+      },
+      {
+        "q": "纪念碑附近有卫生间、咖啡馆或商店吗？",
+        "a": "纪念碑广场内没有商业设施。步行 5–15 分钟可达老城与市中心，那里有公共卫生间、咖啡馆与商店。"
+      },
+      {
+        "q": "8 月 1 日纪念碑会有什么活动？",
+        "a": "每年 8 月 1 日，波兰纪念起义爆发周年。17:00（W 时刻）华沙全城警报鸣响、静默一分钟，纪念碑前举行官方仪式与献花。"
+      },
+      {
+        "q": "可以在纪念碑拍照吗？",
+        "a": "可以，欢迎拍照。请保持肃穆——切勿攀爬雕塑——并注意华沙纪念场所通常禁止使用无人机。"
+      },
+      {
+        "q": "纪念碑对轮椅使用者友好吗？",
+        "a": "友好。纪念碑位于开阔平整的广场上，有可通行的铺装步道，无需进入任何建筑或上下楼梯，轮椅一般可轻松到达。"
+      }
+    ]
+  },
+  "sources": {
+    "title": "资料来源与延伸阅读",
+    "subtitle": "本站科普内容所参考的独立、非商业信源。",
+    "items": [
+      {
+        "name": "维基百科 — Warsaw Uprising Monument（英文）",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument"
+      },
+      {
+        "name": "华沙起义博物馆（官方网站）",
+        "url": "https://www.1944.pl/en/"
+      },
+      {
+        "name": "维基百科 — Pomnik Powstania Warszawskiego（波兰语）",
+        "url": "https://pl.wikipedia.org/wiki/Pomnik_Powstania_Warszawskiego"
+      },
+      {
+        "name": "Culture.pl — 库奇马与布丁：华沙起义纪念碑",
+        "url": "https://culture.pl/pl/dzielo/wincenty-kucma-i-jacek-budyn-pomnik-powstania-warszawskiego"
+      },
+      {
+        "name": "华沙市政府官网",
+        "url": "https://www.um.warszawa.pl/en"
+      },
+      {
+        "name": "Google Maps — 克拉辛斯基广场位置",
+        "url": "https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
+      }
+    ]
+  },
+  "weather": {
+    "title": "华沙天气",
+    "subtitle": "纪念碑所在区域的实时天气与未来 5 天预报，助您更好地规划行程。",
+    "current": "当前天气",
+    "today": "今天",
+    "feelsLike": "体感温度",
+    "humidity": "湿度",
+    "wind": "风速",
+    "precipitation": "降水量",
+    "forecast": "未来 5 天预报",
+    "precipProb": "降水概率",
+    "updated": "更新时间",
+    "updatedSoon": "天气数据每小时自动刷新。",
+    "sourceNote": "天气数据由 Open-Meteo 提供",
+    "unavailable": "天气数据暂时不可用，出行前请查询当地天气预报。",
+    "codes": {
+      "clear": "晴",
+      "partly": "多云",
+      "overcast": "阴",
+      "fog": "雾",
+      "drizzle": "毛毛雨",
+      "rain": "雨",
+      "snow": "雪",
+      "thunder": "雷暴"
+    }
   }
 }

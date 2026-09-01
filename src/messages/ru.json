@@ -1,25 +1,32 @@
 {
   "meta": {
-    "title": "Warsaw Uprising Monument | Pomnik Powstania Warszawskiego - WWII Memorial Landmark in Warsaw, Poland",
-    "description": "Complete guide to the Warsaw Uprising Monument. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Iconic WWII memorial and patriotic landmark in Warsaw."
+    "title": "Памятник Варшавскому восстанию - путеводитель, история и карта",
+    "description": "Спланируйте визит к памятнику Варшавскому восстанию (Pomnik Powstania Warszawskiego) на площади Красиньских в Варшаве. Карта, история и советы для бесплатного посещения."
   },
   "header": {
     "home": "Главная",
     "gallery": "Галерея",
+    "stories": "История",
+    "facilities": "Удобства",
     "reviews": "Отзывы",
+    "faq": "Вопросы",
     "map": "Карта",
     "backToHome": "Вернуться на главную"
   },
   "hero": {
     "title": "Памятник Варшавскому восстанию",
-    "subtitle": "Варшавский мемориал Второй мировой войны, объект патриотического наследия",
-    "rating": "4.8(5,373)",
-    "reviewCount": "5,373 отзывов",
+    "subtitle": "Мемориал Варшавского восстания 1944 · пл. Красиньских · Бесплатно, 24/7",
+    "rating": "4.8(5,532)",
+    "reviewCount": "5,532 отзывов",
     "hours": "Открыто 24/7",
-    "openMaps": "Посмотреть местоположение"
+    "openMaps": "Посмотреть местоположение",
+    "imgAlt": "Памятник Варшавскому восстанию (Pomnik Powstania Warszawskiego) - вид в Варшаве, Польша"
   },
   "intro": {
     "title": "Discover the Warsaw Uprising Monument",
+    "lead": "Памятник Варшавскому восстанию (польск. Pomnik Powstania Warszawskiego) расположен на площади Красиньских (plac Krasińskich) в Варшаве. Открытый 1 августа 1989 года, он увековечивает героев Варшавского восстания 1944 года — крупнейшего вооружённого выступления европейского движения Сопротивления во Второй мировой войне. Этот бесплатный мемориал под открытым небом стоит у южного края площади, перед зданием Верховного суда.",
+    "learnMoreLabel": "Подробнее:",
+    "linkMuseum": "Музей Варшавского восстания",
     "description": "Standing before the Warsaw Uprising Monument, you will immediately feel enveloped by a solemn and profound atmosphere. The entire sculptural group, rendered in highly impactful realistic techniques, recreates the heroic moments of the 1944 Warsaw Uprising—the shattered structures, the struggling figures, all silently narrate the suffering and resistance this city once endured.\n\nThe square is quiet and solemn, free from commercial bustle. Visitors walk softly and slowly, standing in reverent contemplation. The two sculptural groups complement each other—one side depicting courageous fighters, the other showing civilians struggling to survive in the ruins. The intricate carving details fully present both the cruelty of war and the resilience of humanity.\n\nSurrounding modern buildings rise alongside this heavy historical landmark, creating a striking contrast that makes one appreciate the preciousness of peace even more. You can quietly circle the monument, absorbing the emotions conveyed by the sculptures, and reflect in the expansive memorial square, remembering this chapter of the city's past that must never be forgotten.\n\nAs twilight falls, cool light and shadows envelop the entire square, making the monument's silhouette increasingly dignified. This is not merely a sculptural landmark—it is Warsaw's spiritual pillar, witnessing destruction, resistance, and rebirth, allowing every visitor to understand the history and faith of this resilient city.",
     "visitGuide": {
       "title": "Visit Tips",
@@ -77,17 +84,17 @@
     "cityValue": "Warsaw",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland"
+    "addressValue": "plac Krasińskich, 00-263 Варшава, Польша"
   },
   "hours": {
     "title": "Opening Hours",
     "outdoor": "Memorial Square & Monument",
     "outdoorTime": "Open 24/7 year-round, no restrictions",
-    "lighthouse": "Exhibition Room (Summer Season)",
-    "summer": "Summer (April 1 - October 31)",
-    "summerTime": "09:00-18:00",
-    "winter": "Winter (November 1 - March 31)",
-    "winterTime": "09:00-16:00, closed on Mondays",
+    "lighthouse": "\u0413\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u044f \u2014 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430",
+    "summer": "\u0415\u0436\u0435\u0433\u043e\u0434\u043d\u0430\u044f \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0446\u0435\u0440\u0435\u043c\u043e\u043d\u0438\u044f \u0443 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a\u0430",
+    "summerTime": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e, \u043e\u0442\u043a\u0440\u044b\u0442\u043e \u0434\u043b\u044f \u0432\u0441\u0435\u0445",
+    "winter": "\u0414\u0440\u0443\u0433\u0438\u0435 \u043f\u0430\u043c\u044f\u0442\u043d\u044b\u0435 \u0434\u0430\u0442\u044b",
+    "winterTime": "\u041c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0432\u0441\u0435\u0433\u043e \u0433\u043e\u0434\u0430; \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u043e\u0442\u043a\u0440\u044b\u0442\u0430 24/7",
     "warning": "Special Notice",
     "warningTime": "Ceremonies and events are held on commemorative days and special occasions. The atmosphere is solemn and dignified.",
     "tip": "Recommended to visit during early morning or late afternoon for fewer crowds and better atmosphere"
@@ -96,15 +103,15 @@
     "title": "Ticket Prices",
     "outdoor": "Outdoor Memorial Square",
     "outdoorPrice": "Free admission, no entry fee",
-    "lighthouse": "Exhibition Room & Themed Display",
-    "adults": "Adults",
-    "adultsPrice": "Standard pricing",
-    "students": "Students & Seniors",
-    "studentsPrice": "Discounted pricing",
-    "children": "Children",
-    "childrenPrice": "Free admission",
-    "card": "Warsaw City Pass",
-    "cardPrice": "Can be used for discounted admission to exhibition rooms"
+    "lighthouse": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0438 \u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043c\u0443\u0437\u0435\u0439",
+    "adults": "\u041f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0412\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u043e\u043c\u0443 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u044e",
+    "adultsPrice": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e, 24/7",
+    "students": "\u041c\u0443\u0437\u0435\u0439 \u0412\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u043e\u0433\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u044f - \u043e\u0431\u044b\u0447\u043d\u044b\u0439 \u0431\u0438\u043b\u0435\u0442",
+    "studentsPrice": "35 \u0437\u043b\u043e\u0442\u044b\u0445",
+    "children": "\u041c\u0443\u0437\u0435\u0439 - \u043b\u044c\u0433\u043e\u0442\u043d\u044b\u0439 \u0431\u0438\u043b\u0435\u0442",
+    "childrenPrice": "30 \u0437\u043b\u043e\u0442\u044b\u0445",
+    "card": "\u041f\u043e\u043b\u0435\u0437\u043d\u043e \u0437\u043d\u0430\u0442\u044c",
+    "cardPrice": "\u041c\u0443\u0437\u0435\u0439 (\u0440\u0430\u0439\u043e\u043d \u0412\u043e\u043b\u044f) - \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0434\u043e\u0441\u0442\u043e\u043f\u0440\u0438\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c; \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0439 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u043d\u0430 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 \u041a\u0440\u0430\u0441\u0438\u043d\u044c\u0441\u043a\u0438\u0445 \u0432\u0441\u0435\u0433\u0434\u0430 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u0435\u043d."
   },
   "transport": {
     "title": "How to Get Here",
@@ -207,7 +214,13 @@
       "Sculpture Details",
       "Evening Atmosphere",
       "Historical Commemorative Area",
-      "Warsaw Skyline Background"
+      "Warsaw Skyline Background",
+      "Warsaw Uprising Monument Panorama",
+      "Heroic Resistance Sculptures",
+      "Survival in Ruins Group",
+      "Memorial Square Overview",
+      "Sculpture Details",
+      "Evening Atmosphere"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Показать все фото",
@@ -270,8 +283,10 @@
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "subtitle": "plac Krasińskich, 00-263 Варшава, Польша",
+    "openMaps": "View on Google Maps",
+    "authorityText": "За актуальной информацией и региональными туристическими материалами посетите",
+    "authorityLink": "Официальный туристический портал Польши"
   },
   "footer": {
     "rights": "© 2026 Warsaw Uprising Monument Independent Travel Research Association · All rights reserved.",
@@ -286,7 +301,8 @@
       "museum": "Музей Варшавского восстания",
       "city": "Мэрия Варшавы"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "photoCredit": "Все изображения, представленные на этом сайте, остаются собственностью и авторским правом их авторов."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -355,45 +371,224 @@
     "title": "About Warsaw Uprising Monument",
     "text": "The Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) is managed and maintained by the Warsaw City Government and the Polish National Memorial. As Poland's most significant WWII memorial landmark, the monument commemorates the heroic resistance of the Polish people during the 1944 Warsaw Uprising.\n\nThe monument stands as a powerful symbol of Polish national spirit and serves as an important site for patriotic education, historical research, and solemn commemoration. Each year on the anniversary of the uprising, national ceremonies are held here, attended by government officials, veterans, and citizens. The memorial is open to the public free of charge and welcomes visitors from around the world to learn about this important chapter of history."
   },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
+  "nearby": {
+    "title": "Что посмотреть рядом с памятником Варшавскому восстанию",
+    "subtitle": "Площадь Красиньских расположена между Старым городом и бывшим гетто - совместите памятник с этими достопримечательностями.",
+    "viewMap": "Смотреть в Google Maps",
+    "items": [
       {
-        "name": "Warsaw Old Town",
-        "url": "https://www.warsawtour.pl"
+        "name": "Верховный суд Польши",
+        "alt": "Sąd Najwyższy",
+        "distance": "На этой же площади",
+        "desc": "Монументальное здание высшего суда Польши стоит прямо за памятником на площади Красиньских.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Supreme+Court+of+Poland+plac+Krasi%C5%84skich+Warsaw"
       },
       {
-        "name": "Royal Castle",
-        "url": "https://www.warsawtour.pl"
+        "name": "Дворец Красиньских",
+        "alt": "Pałac Krasińskich",
+        "distance": "100 м",
+        "desc": "Великолепный барочный дворец XVII века на северной стороне площади, сегодня часть Национальной библиотеки.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krasi%C5%84skich+Warsaw"
       },
       {
-        "name": "POLIN Museum",
-        "url": "https://www.polin.pl"
+        "name": "Старый город Варшавы",
+        "alt": "Stare Miasto",
+        "distance": "600 м · 8 мин пешком",
+        "desc": "Объект Всемирного наследия ЮНЕСКО: Королевский замок, Рыночная площадь, кафедральный собор Св. Иоанна и Барбакан.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Old+Town"
       },
       {
-        "name": "Warsaw Barbican",
-        "url": "https://www.warsawtour.pl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "Warsaw WWII History Tour",
-        "url": "https://www.warsawtour.pl"
+        "name": "Музей истории польских евреев POLIN",
+        "alt": "POLIN",
+        "distance": "900 м · 12 мин пешком",
+        "desc": "Лауреат многих наград музей на месте бывшего варшавского гетто, короткая прогулка на запад от площади.",
+        "url": "https://www.google.com/maps/search/?api=1&query=POLIN+Museum+Warsaw"
       },
       {
-        "name": "Communist Architecture Walk",
-        "url": "https://www.warsawtour.pl"
-      },
-      {
-        "name": "Warsaw Jewish Heritage Tour",
-        "url": "https://www.poland.travel"
-      },
-      {
-        "name": "Warsaw City Hop-on Hop-off Tour",
-        "url": "https://www.warsawtour.pl"
+        "name": "Музей Варшавского восстания",
+        "alt": "Warsaw Uprising Museum",
+        "distance": "2,6 км · на трамвае",
+        "desc": "Главный музей, посвящённый восстанию 1944 года, расположен в бывшей трамвайной электростанции в районе Воля.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Uprising+Museum"
       }
     ]
+  },
+  "facilities": {
+    "title": "Удобства на месте и поблизости",
+    "subtitle": "На мемориальной площади нет коммерческих объектов. Ниже \u2014 типичные удобства в пешей доступности от площади Красиньских.",
+    "items": [
+      {
+        "icon": "toilet",
+        "title": "Общественные туалеты",
+        "desc": "На мемориальной площади нет общественных туалетов. Ближайшие находятся у Рыночной площади Старого города и в городских объектах центра, примерно в 8\u201310 минутах ходьбы. Воспользуйтесь туалетами в транспортных узлах или торговых центрах до прибытия.",
+        "hint": "Рядом \u00b7 8\u201310 мин пешком"
+      },
+      {
+        "icon": "parking",
+        "title": "Парковка",
+        "desc": "Площадь Красиньских находится в платной парковочной зоне центра Варшавы: мест у улиц мало и они ограничены по времени. В центре также работают многоуровневые паркинги. Проще всего добраться до площади на общественном транспорте.",
+        "hint": "Платная зона"
+      },
+      {
+        "icon": "food",
+        "title": "Кафе и рестораны",
+        "desc": "На мемориальной площади нет ресторанов и киосков. В 5\u201315 минутах ходьбы Старый город и центр предлагают широкий выбор кафе, ресторанов, бистро и точек быстрого питания на любой бюджет.",
+        "hint": "5\u201315 мин пешком"
+      },
+      {
+        "icon": "bed",
+        "title": "Отели и проживание",
+        "desc": "В центре Варшавы и Старом городе есть варианты от хостелов и бюджетных отелей до отелей повышенной категории. Ближайшие кварталы у площади \u2014 в основном офисы и общественные здания, поэтому большинство отелей в 10\u201320 минутах ходьбы. См. раздел \u00abПроживание\u00bb.",
+        "hint": "См. раздел \u00abПроживание\u00bb"
+      },
+      {
+        "icon": "shop",
+        "title": "Продуктовые и минимаркеты",
+        "desc": "Минимаркеты и супермаркеты распространены в центре Варшавы, многие работают допоздна. Ближайшие торговые улицы ведут в сторону Старого города и Нового Свята, около 10 минут пешком.",
+        "hint": "Рядом"
+      },
+      {
+        "icon": "fuel",
+        "title": "Заправки и зарядки EV",
+        "desc": "Заправочных станций в историческом центре мало, а общественных зарядок у площади Красиньских пока немного. Если вы едете на машине, заправьтесь или зарядитесь до въезда в центр и следуйте местным знакам парковки.",
+        "hint": "Планируйте заранее"
+      }
+    ],
+    "note": "Как некоммерческий образовательный сайт мы не рекомендуем конкретные заведения \u2014 список выше охватывает типы удобств, которые обычно находятся поблизости."
+  },
+  "stories": {
+    "title": "История, рассказы и традиции",
+    "subtitle": "Документированные факты и живая память за самым важным памятником Варшавы.",
+    "kinds": {
+      "documented": "Документированная история",
+      "memory": "Память и символизм",
+      "tradition": "Живая традиция"
+    },
+    "items": [
+      {
+        "kind": "documented",
+        "title": "Народный памятник, создававшийся два десятилетия",
+        "text": "Идея мемориала восстанию 1944 года обсуждалась годами, но лишь в начале 1980-х общественный комитет собрал пожертвования и материалы. Закладной акт был замурован 31 июля 1984 года, накануне 40-й годовщины начала восстания, а в декабре 1984 года был объявлен конкурс на проект. Памятник наконец открыли 1 августа 1989 года \u2014 ровно в 45-ю годовщину начала восстания \u2014 один из последних крупных мемориальных проектов, завершённых до конца коммунистического правления."
+      },
+      {
+        "kind": "documented",
+        "title": "Скульптор Винценты Куцьма и архитектор Яцек Будынь",
+        "text": "Победный проект создали скульптор Винценты Куцьма и архитектор Яцек Будынь. Их монументальная повествовательная композиция из серого гранита порвала с господствовавшей тогда модой на абстракцию, вернув реалистичную экспрессивную скульптуру в публичное пространство Варшавы."
+      },
+      {
+        "kind": "memory",
+        "title": "Канализация: самый пронзительный мотив памятника",
+        "text": "Одна из скульптурных групп изображает повстанцев, спускающихся в канализационный люк, другая \u2014 бойцов, выходящих из-под обломков. За 63 дня восстания варшавская канализация использовалась для перемещения людей, припасов и сообщений между районами, а в последние недели \u2014 для эвакуации повстанцев из Старого города. Этот мотив стал одним из самых сильных символов Варшавского восстания."
+      },
+      {
+        "kind": "memory",
+        "title": "Стена руин",
+        "text": "Памятник построен вокруг разрушенных стен и осыпающейся кладки. После восстания и последовавших систематических разрушений в руинах лежало около 85% Варшавы. Треснувшая стена памятника символизирует разрушенный город \u2014 и сопротивление, поднявшееся из него."
+      },
+      {
+        "kind": "tradition",
+        "title": "Час \u00abW\u00bb \u2014 город замирает",
+        "text": "Восстание началось 1 августа 1944 года в 17:00 \u2014 в так называемый час \u00abW\u00bb (Godzina W). Каждый год 1 августа в 17:00 по всему городу звучат сирены, и Варшава замирает на минуту молчания. У самого памятника возлагают венки и проводят государственные церемонии с участием ветеранов, официальных лиц и тысяч горожан."
+      },
+      {
+        "kind": "documented",
+        "title": "Площадь, которая была полем боя",
+        "text": "Площадь Красиньских не была тихим фоном: во время восстания дворец Красиньских на северной окраине площади захватили немецкие войска и превратили в опорный пункт, а в округе шли тяжёлые бои за его отбитие. Возведение здесь национального памятника \u2014 на краю Старого города и на самом поле битвы \u2014 было осознанным актом памяти."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Часто задаваемые вопросы",
+    "subtitle": "Практические ответы для планирования визита.",
+    "items": [
+      {
+        "q": "Посещение памятника Варшавскому восстанию бесплатно?",
+        "a": "Да. Памятник \u2014 открытый мемориал на общественной земле: вход бесплатный, доступен круглосуточно в любой день года."
+      },
+      {
+        "q": "Каковы часы работы?",
+        "a": "Мемориальная площадь открыта 24/7, 365 дней в году, без ограничений. Ежегодные церемонии проходят 1 августа."
+      },
+      {
+        "q": "Как добраться до площади Красиньских?",
+        "a": "Метро линии M1 \u2014 станция Ratusz Arsena\u0142, около 5\u20138 минут пешком. Рядом есть трамвайные и автобусные остановки, а до Старого города около 8 минут пешком. Площадь находится между Старым городом и бывшим гетто."
+      },
+      {
+        "q": "Сколько времени заложить на визит?",
+        "a": "Спокойный осмотр занимает около 40 минут \u2014 обойти скульптуры и прочитать памятные таблички. Любители истории легко проведут 1,5 часа, совместив памятник с дворцом Красиньских и Старым городом."
+      },
+      {
+        "q": "Есть ли у памятника туалеты, кафе или магазины?",
+        "a": "На мемориальной площади нет коммерческих объектов. Общественные туалеты, кафе и магазины находятся в 5\u201315 минутах ходьбы в Старом городе и центре."
+      },
+      {
+        "q": "Что происходит у памятника 1 августа?",
+        "a": "Каждый год 1 августа Польша отмечает годовщину начала восстания. В 17:00 (час \u00abW\u00bb) по Варшаве звучат сирены, объявляется минута молчания. У памятника проходят официальные церемонии и возложение венков."
+      },
+      {
+        "q": "Можно ли фотографировать у памятника?",
+        "a": "Да, фотографировать можно. Пожалуйста, сохраняйте серьёзность \u2014 не залезайте на скульптуры \u2014 и учтите, что дроны над мемориальными местами Варшавы, как правило, запрещены."
+      },
+      {
+        "q": "Доступен ли памятник для людей на инвалидных колясках?",
+        "a": "Да. Памятник стоит на открытой ровной площади с доступными мощёными дорожками, нет лестниц и зданий для входа, поэтому до него легко добраться на коляске."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Источники и дополнительное чтение",
+    "subtitle": "Независимые некоммерческие материалы, использованные в этом путеводителе.",
+    "items": [
+      {
+        "name": "Wikipedia \u2014 Warsaw Uprising Monument (\u0430\u043d\u0433\u043b.)",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument"
+      },
+      {
+        "name": "Музей Варшавского восстания (официальный сайт)",
+        "url": "https://www.1944.pl/"
+      },
+      {
+        "name": "Wikipedia \u2014 Pomnik Powstania Warszawskiego (\u043f\u043e\u043b\u044c\u0441\u043a.)",
+        "url": "https://pl.wikipedia.org/wiki/Pomnik_Powstania_Warszawskiego"
+      },
+      {
+        "name": "Culture.pl \u2014 Куцьма и Будынь, памятник Варшавскому восстанию",
+        "url": "https://culture.pl/pl/dzielo/wincenty-kucma-i-jacek-budyn-pomnik-powstania-warszawskiego"
+      },
+      {
+        "name": "Официальный сайт города Варшавы",
+        "url": "https://www.um.warszawa.pl/en"
+      },
+      {
+        "name": "Google Maps \u2014 расположение площади Красиньских",
+        "url": "https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Погода в Варшаве",
+    "subtitle": "Текущие условия и прогноз на 5 дней для района памятника — в помощь при планировании визита.",
+    "current": "Текущие условия",
+    "today": "Сегодня",
+    "feelsLike": "Ощущается как",
+    "humidity": "Влажность",
+    "wind": "Ветер",
+    "precipitation": "Осадки",
+    "forecast": "Прогноз на 5 дней",
+    "precipProb": "Вероятность осадков",
+    "updated": "Обновлено",
+    "updatedSoon": "Данные о погоде обновляются автоматически каждый час.",
+    "sourceNote": "Данные о погоде: Open-Meteo",
+    "unavailable": "Данные о погоде временно недоступны. Перед визитом проверьте местный прогноз.",
+    "codes": {
+      "clear": "Ясно",
+      "partly": "Переменная облачность",
+      "overcast": "Пасмурно",
+      "fog": "Туман",
+      "drizzle": "Мелкий дождь",
+      "rain": "Дождь",
+      "snow": "Снег",
+      "thunder": "Гроза"
+    }
   }
 }

@@ -1,11 +1,34 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+// Per-locale Wikipedia article for entity disambiguation.
+// Titles verified to exist (de falls back to the canonical EN article).
+const wikiUrls: Record<string, string> = {
+  en: 'https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument',
+  zh: 'https://zh.wikipedia.org/wiki/华沙起义纪念碑',
+  pl: 'https://pl.wikipedia.org/wiki/Pomnik_Powstania_Warszawskiego',
+  ru: 'https://ru.wikipedia.org/wiki/Памятник_участникам_Варшавского_восстания',
+  de: 'https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument',
+};
+
+const museumUrls: Record<string, string> = {
+  pl: 'https://www.1944.pl/',
+  en: 'https://www.1944.pl/en/',
+  zh: 'https://www.1944.pl/en/',
+  ru: 'https://www.1944.pl/en/',
+  de: 'https://www.1944.pl/en/',
+};
 
 export default function Intro() {
   const t = useTranslations('intro');
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
+  const locale = useLocale();
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const description: string = messages?.intro?.description || '';
+  const paragraphs: string[] = description.split('\n\n').filter((p: string) => p.trim().length > 0);
+  const wikiUrl = wikiUrls[locale] || wikiUrls.en;
+  const museumUrl = museumUrls[locale] || museumUrls.en;
 
   return (
     <section className="section-padding">
@@ -18,14 +41,52 @@ export default function Intro() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
+        {/* Entity-rich first paragraph: name, Polish name, year, exact address */}
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
-          {t('description')}
+          {t('lead')}
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {/* Outbound authoritative links for entity disambiguation */}
+        <div
+          className="flex flex-wrap items-center gap-x-2 gap-y-1 mb-8 text-sm"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          <span>{t('learnMoreLabel')}</span>
+          <a
+            href={wikiUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            Wikipedia
+          </a>
+          <span>·</span>
+          <a
+            href={museumUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('linkMuseum')}
+          </a>
+        </div>
+
+        {paragraphs.map((paragraph, i) => (
+          <p
+            key={i}
+            className="text-lg leading-relaxed mb-6"
+            style={{ color: 'var(--text-secondary)' }}
+          >
+            {paragraph}
+          </p>
+        ))}
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-6">
           <div
             className="rounded-xl p-6 sm:p-8"
             style={{ background: 'var(--bg-tertiary)' }}

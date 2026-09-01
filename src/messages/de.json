@@ -1,25 +1,32 @@
 {
   "meta": {
-    "title": "Warsaw Uprising Monument | Pomnik Powstania Warszawskiego - WWII Memorial Landmark in Warsaw, Poland",
-    "description": "Complete guide to the Warsaw Uprising Monument. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Iconic WWII memorial and patriotic landmark in Warsaw."
+    "title": "Warschauer Aufstand Denkmal - Besucherführer, Geschichte & Karte",
+    "description": "Planen Sie Ihren Besuch des Warschauer Aufstand Denkmals (Pomnik Powstania Warszawskiego) am Plac Krasińskich. Karte, Geschichte und kostenlose Besuchstipps."
   },
   "header": {
     "home": "Startseite",
     "gallery": "Galerie",
+    "stories": "Geschichte",
+    "facilities": "Ausstattung",
     "reviews": "Bewertungen",
+    "faq": "FAQ",
     "map": "Karte",
     "backToHome": "Zurück zur Startseite"
   },
   "hero": {
     "title": "Warschauer Aufstand Denkmal",
-    "subtitle": "Warschauer Weltkriegsdenkmal, Ort des patriotischen Erbes",
-    "rating": "4.8(5,373)",
-    "reviewCount": "5,373 Bewertungen",
+    "subtitle": "Denkmal des Warschauer Aufstands 1944 · Plac Krasińskich · Kostenlos, 24/7",
+    "rating": "4.8(5,532)",
+    "reviewCount": "5,532 Bewertungen",
     "hours": "Rund um die Uhr geöffnet",
-    "openMaps": "Standort ansehen"
+    "openMaps": "Standort ansehen",
+    "imgAlt": "Warschauer Aufstand Denkmal (Pomnik Powstania Warszawskiego) - Hauptansicht in Warschau, Polen"
   },
   "intro": {
     "title": "Discover the Warsaw Uprising Monument",
+    "lead": "Das Warschauer Aufstand Denkmal (polnisch: Pomnik Powstania Warszawskiego) liegt am Plac Krasińskich in Warschau. Das am 1. August 1989 enthüllte Denkmal ehrt die Helden des Warschauer Aufstands von 1944 – des größten bewaffneten Aufstands einer europäischen Widerstandsbewegung im Zweiten Weltkrieg. Das frei zugängliche Denkmal steht am südlichen Rand des Krasiński-Platzes, direkt vor dem Gebäude des Obersten Gerichts.",
+    "learnMoreLabel": "Mehr erfahren:",
+    "linkMuseum": "Museum des Warschauer Aufstands",
     "description": "Standing before the Warsaw Uprising Monument, you will immediately feel enveloped by a solemn and profound atmosphere. The entire sculptural group, rendered in highly impactful realistic techniques, recreates the heroic moments of the 1944 Warsaw Uprising—the shattered structures, the struggling figures, all silently narrate the suffering and resistance this city once endured.\n\nThe square is quiet and solemn, free from commercial bustle. Visitors walk softly and slowly, standing in reverent contemplation. The two sculptural groups complement each other—one side depicting courageous fighters, the other showing civilians struggling to survive in the ruins. The intricate carving details fully present both the cruelty of war and the resilience of humanity.\n\nSurrounding modern buildings rise alongside this heavy historical landmark, creating a striking contrast that makes one appreciate the preciousness of peace even more. You can quietly circle the monument, absorbing the emotions conveyed by the sculptures, and reflect in the expansive memorial square, remembering this chapter of the city's past that must never be forgotten.\n\nAs twilight falls, cool light and shadows envelop the entire square, making the monument's silhouette increasingly dignified. This is not merely a sculptural landmark—it is Warsaw's spiritual pillar, witnessing destruction, resistance, and rebirth, allowing every visitor to understand the history and faith of this resilient city.",
     "visitGuide": {
       "title": "Visit Tips",
@@ -77,17 +84,17 @@
     "cityValue": "Warsaw",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland"
+    "addressValue": "plac Krasińskich, 00-263 Warschau, Polen"
   },
   "hours": {
     "title": "Opening Hours",
     "outdoor": "Memorial Square & Monument",
     "outdoorTime": "Open 24/7 year-round, no restrictions",
-    "lighthouse": "Exhibition Room (Summer Season)",
-    "summer": "Summer (April 1 - October 31)",
-    "summerTime": "09:00-18:00",
-    "winter": "Winter (November 1 - March 31)",
-    "winterTime": "09:00-16:00, closed on Mondays",
+    "lighthouse": "Jahrestag des Aufstands \u2014 1. August",
+    "summer": "J\u00e4hrliche staatliche Zeremonie am Denkmal",
+    "summerTime": "Kostenlos, \u00f6ffentlich zug\u00e4nglich",
+    "winter": "Weitere Gedenktage",
+    "winterTime": "Veranstaltungen das ganze Jahr; der Platz bleibt rund um die Uhr ge\u00f6ffnet",
     "warning": "Special Notice",
     "warningTime": "Ceremonies and events are held on commemorative days and special occasions. The atmosphere is solemn and dignified.",
     "tip": "Recommended to visit during early morning or late afternoon for fewer crowds and better atmosphere"
@@ -96,15 +103,15 @@
     "title": "Ticket Prices",
     "outdoor": "Outdoor Memorial Square",
     "outdoorPrice": "Free admission, no entry fee",
-    "lighthouse": "Exhibition Room & Themed Display",
-    "adults": "Adults",
-    "adultsPrice": "Standard pricing",
-    "students": "Students & Seniors",
-    "studentsPrice": "Discounted pricing",
-    "children": "Children",
-    "childrenPrice": "Free admission",
-    "card": "Warsaw City Pass",
-    "cardPrice": "Can be used for discounted admission to exhibition rooms"
+    "lighthouse": "Kostenloses Denkmal & bezahltes Museum",
+    "adults": "Warschauer Aufstand Denkmal",
+    "adultsPrice": "Kostenlos, 24/7",
+    "students": "Museum des Warschauer Aufstands - Standardticket",
+    "studentsPrice": "35 z\u0142",
+    "children": "Museum - erm\u00e4\u00dfigtes Ticket",
+    "childrenPrice": "30 z\u0142",
+    "card": "Gut zu wissen",
+    "cardPrice": "Das Museum (Stadtteil Wola) ist eine separate kostenpflichtige Attraktion; das Denkmal am Plac Krasi\u0144skich ist immer kostenlos."
   },
   "transport": {
     "title": "How to Get Here",
@@ -207,7 +214,13 @@
       "Sculpture Details",
       "Evening Atmosphere",
       "Historical Commemorative Area",
-      "Warsaw Skyline Background"
+      "Warsaw Skyline Background",
+      "Warsaw Uprising Monument Panorama",
+      "Heroic Resistance Sculptures",
+      "Survival in Ruins Group",
+      "Memorial Square Overview",
+      "Sculpture Details",
+      "Evening Atmosphere"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Alle Fotos anzeigen",
@@ -270,8 +283,10 @@
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "Plac Powstańców Warszawy, 00-107 Warszawa, Poland",
-    "openMaps": "View on Google Maps"
+    "subtitle": "plac Krasińskich, 00-263 Warschau, Polen",
+    "openMaps": "View on Google Maps",
+    "authorityText": "Für offizielle Updates und regionale Tourismusinformationen besuchen Sie",
+    "authorityLink": "Polens offizielles Tourismusportal"
   },
   "footer": {
     "rights": "© 2026 Warsaw Uprising Monument Independent Travel Research Association · All rights reserved.",
@@ -286,7 +301,8 @@
       "museum": "Museum des Warschauer Aufstandes",
       "city": "Stadt Warschau"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "photoCredit": "Alle auf dieser Website angezeigten Bilder bleiben Eigentum und Urheberrecht ihrer jeweiligen Fotografen."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -355,45 +371,224 @@
     "title": "About Warsaw Uprising Monument",
     "text": "The Warsaw Uprising Monument (Pomnik Powstania Warszawskiego) is managed and maintained by the Warsaw City Government and the Polish National Memorial. As Poland's most significant WWII memorial landmark, the monument commemorates the heroic resistance of the Polish people during the 1944 Warsaw Uprising.\n\nThe monument stands as a powerful symbol of Polish national spirit and serves as an important site for patriotic education, historical research, and solemn commemoration. Each year on the anniversary of the uprising, national ceremonies are held here, attended by government officials, veterans, and citizens. The memorial is open to the public free of charge and welcomes visitors from around the world to learn about this important chapter of history."
   },
-  "recommendations": {
-    "title": "Discover More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
+  "nearby": {
+    "title": "Sehenswürdigkeiten in der Nähe des Warschauer Aufstand Denkmals",
+    "subtitle": "Der Plac Krasińskich liegt zwischen der Altstadt und dem ehemaligen Ghetto - kombinieren Sie das Denkmal mit diesen Attraktionen.",
+    "viewMap": "In Google Maps ansehen",
+    "items": [
       {
-        "name": "Warsaw Old Town",
-        "url": "https://www.warsawtour.pl"
+        "name": "Oberstes Gericht Polens",
+        "alt": "Sąd Najwyższy",
+        "distance": "Am selben Platz",
+        "desc": "Das monumentale Gebäude des höchsten Gerichts Polens steht direkt hinter dem Denkmal am Plac Krasińskich.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Supreme+Court+of+Poland+plac+Krasi%C5%84skich+Warsaw"
       },
       {
-        "name": "Royal Castle",
-        "url": "https://www.warsawtour.pl"
+        "name": "Krasiński-Palast",
+        "alt": "Pałac Krasińskich",
+        "distance": "100 m",
+        "desc": "Ein prächtiger barocker Palast aus dem 17. Jahrhundert an der Nordseite des Platzes, heute Teil der Nationalbibliothek.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Pa%C5%82ac+Krasi%C5%84skich+Warsaw"
       },
       {
-        "name": "POLIN Museum",
-        "url": "https://www.polin.pl"
+        "name": "Warschauer Altstadt",
+        "alt": "Stare Miasto",
+        "distance": "600 m · 8 Min. zu Fuß",
+        "desc": "UNESCO-Weltkulturerbe: Königsschloss, Marktplatz, Johanneskathedrale und Barbakan.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Old+Town"
       },
       {
-        "name": "Warsaw Barbican",
-        "url": "https://www.warsawtour.pl"
-      }
-    ],
-    "tours": [
-      {
-        "name": "Warsaw WWII History Tour",
-        "url": "https://www.warsawtour.pl"
+        "name": "POLIN Museum für die Geschichte der polnischen Juden",
+        "alt": "POLIN",
+        "distance": "900 m · 12 Min. zu Fuß",
+        "desc": "Preisgekröntes Museum auf dem Gelände des ehemaligen Warschauer Ghettos, ein kurzer Spaziergang westlich des Platzes.",
+        "url": "https://www.google.com/maps/search/?api=1&query=POLIN+Museum+Warsaw"
       },
       {
-        "name": "Communist Architecture Walk",
-        "url": "https://www.warsawtour.pl"
-      },
-      {
-        "name": "Warsaw Jewish Heritage Tour",
-        "url": "https://www.poland.travel"
-      },
-      {
-        "name": "Warsaw City Hop-on Hop-off Tour",
-        "url": "https://www.warsawtour.pl"
+        "name": "Museum des Warschauer Aufstands",
+        "alt": "Warsaw Uprising Museum",
+        "distance": "2,6 km · mit der Straßenbahn",
+        "desc": "Das wichtigste Museum zum Aufstand von 1944, untergebracht in einem ehemaligen Straßenbahnkraftwerk im Stadtteil Wola.",
+        "url": "https://www.google.com/maps/search/?api=1&query=Warsaw+Uprising+Museum"
       }
     ]
+  },
+  "facilities": {
+    "title": "Ausstattung vor Ort und in der Nähe",
+    "subtitle": "Der Gedenkplatz selbst ist frei von kommerziellen Einrichtungen. Hier finden Sie typische Angebote in fußläufiger Entfernung vom Plac Krasi\u0144skich.",
+    "items": [
+      {
+        "icon": "toilet",
+        "title": "Öffentliche Toiletten",
+        "desc": "Auf dem Gedenkplatz gibt es keine öffentlichen Toiletten. Die nächsten befinden sich am Altstädter Marktplatz und in städtischen Einrichtungen des Zentrums, etwa 8\u201310 Minuten zu Fuß. Nutzen Sie Toiletten an Verkehrsknotenpunkten oder in Einkaufszentren vor der Anreise.",
+        "hint": "In der Nähe \u00b7 8\u201310 Min. zu Fuß"
+      },
+      {
+        "icon": "parking",
+        "title": "Parken",
+        "desc": "Der Plac Krasi\u0144skich liegt in der gebührenpflichtigen Parkzone der Warschauer Innenstadt: Straßenparkplätze sind begrenzt und zeitlich beschränkt. Im Zentrum gibt es auch mehrstöckige Parkhäuser. Am einfachsten erreichen Sie den Platz mit öffentlichen Verkehrsmitteln.",
+        "hint": "Gebührenzone"
+      },
+      {
+        "icon": "food",
+        "title": "Gastronomie & Cafés",
+        "desc": "Auf dem Gedenkplatz gibt es keine Restaurants oder Kioske. In 5\u201315 Gehminuten bieten die Altstadt und das Zentrum eine große Auswahl an Cafés, Restaurants, Bistros und Schnellrestaurants in allen Preisklassen.",
+        "hint": "5\u201315 Min. zu Fuß"
+      },
+      {
+        "icon": "bed",
+        "title": "Hotels & Unterkünfte",
+        "desc": "Unterkünfte im Zentrum und in der Altstadt von Warschau reichen von Hostels und Budget-Hotels bis zu Hotels höherer Kategorie. Die direkte Umgebung des Platzes besteht überwiegend aus Büros und öffentlichen Gebäuden, daher liegen die meisten Hotels 10\u201320 Gehminuten entfernt. Siehe Abschnitt Unterkünfte.",
+        "hint": "Siehe Unterkünfte"
+      },
+      {
+        "icon": "shop",
+        "title": "Lebensmittel & Supermärkte",
+        "desc": "Super- und Minimärkte sind in der Warschauer Innenstadt weit verbreitet, viele haben lange geöffnet. Die nächsten Einkaufsstraßen führen in Richtung Altstadt und Nowy \u015awiat, etwa 10 Minuten zu Fuß.",
+        "hint": "In der Nähe"
+      },
+      {
+        "icon": "fuel",
+        "title": "Tankstellen & E-Ladestationen",
+        "desc": "Tankstellen gibt es im historischen Zentrum kaum, öffentliche E-Ladestationen rund um den Plac Krasi\u0144skich sind noch begrenzt. Wenn Sie mit dem Auto anreisen, tanken oder laden Sie vor der Einfahrt ins Zentrum und beachten Sie die örtlichen Parkhinweise.",
+        "hint": "Vorher planen"
+      }
+    ],
+    "note": "Als nicht-kommerzielle Bildungswebsite empfehlen wir keine konkreten Geschäfte \u2013 die Liste oben nennt die Arten von Einrichtungen, die in der Nähe üblicherweise vorhanden sind."
+  },
+  "stories": {
+    "title": "Geschichte, Geschichten & Traditionen",
+    "subtitle": "Dokumentierte Fakten und lebendige Erinnerung hinter dem wichtigsten Denkmal Warschaus.",
+    "kinds": {
+      "documented": "Dokumentierte Geschichte",
+      "memory": "Erinnerung & Symbolik",
+      "tradition": "Lebendige Tradition"
+    },
+    "items": [
+      {
+        "kind": "documented",
+        "title": "Ein Bürgerdenkmal, zwei Jahrzehnte im Werden",
+        "text": "Ideen für ein Denkmal für den Aufstand von 1944 kursierten jahrelang, doch erst Anfang der 1980er Jahre sammelte ein Bürgerkomitee Spenden und Materialien. Die Grundsteinurkunde wurde am 31. Juli 1984, am Vorabend des 40. Jahrestags des Aufstandsbeginns, eingemauert; im Dezember 1984 wurde ein Wettbewerb ausgeschrieben. Das Denkmal wurde schließlich am 1. August 1989 enthüllt \u2013 genau 45 Jahre nach Ausbruch des Aufstands \u2013 eines der letzten großen Mahnmale, die vor dem Ende der kommunistischen Herrschaft fertiggestellt wurden."
+      },
+      {
+        "kind": "documented",
+        "title": "Bildhauer Wincenty Ku\u0107ma und Architekt Jacek Budyn",
+        "text": "Der Siegerentwurf stammt vom Bildhauer Wincenty Ku\u0107ma und vom Architekten Jacek Budyn. Ihre monumentale, erzählerische Komposition aus grauem Granit brach mit der damals vorherrschenden Abstraktion und brachte realistische, ausdrucksstarke Bildhauerkunst in den öffentlichen Raum Warschaus zurück."
+      },
+      {
+        "kind": "memory",
+        "title": "Die Kanäle: das ergreifendste Motiv des Denkmals",
+        "text": "Eine Figurengruppe zeigt Aufständische, die in einen Kanalabstieg hinabsteigen, eine andere Kämpfer, die aus den Trümmern hervorkommen. Während der 63 Tage des Aufstands dienten die Warschauer Kanäle dem Transport von Menschen, Nachschub und Nachrichten zwischen den Stadtteilen \u2013 und in den letzten Wochen der Evakuierung von Kämpfern aus der Altstadt. Dieses Motiv ist zu einem der stärksten Symbole des Warschauer Aufstands geworden."
+      },
+      {
+        "kind": "memory",
+        "title": "Die Ruinenmauer",
+        "text": "Das Denkmal ist um zerbrochene Mauern und bröckelndes Mauerwerk gebaut. Nach dem Aufstand und der anschließenden systematischen Zerstörung lag rund 85 % Warschaus in Trümmern. Die gebrochene Mauer des Denkmals steht sowohl für die zerstörte Stadt als auch für den Widerstand, der sich aus ihr erhob."
+      },
+      {
+        "kind": "tradition",
+        "title": "Die \u201eW-Stunde\u201c \u2013 die Stadt hält inne",
+        "text": "Der Aufstand begann am 1. August 1944 um 17:00 Uhr \u2013 der sogenannten W-Stunde (Godzina W). Jedes Jahr am 1. August um 17:00 Uhr heulen in der ganzen Stadt die Sirenen, und Warschau verharrt eine Minute lang in Stille. Am Denkmal selbst werden Kränze niedergelegt und staatliche Zeremonien abgehalten, an denen Veteranen, Amtsträger und zahlreiche Bürger teilnehmen."
+      },
+      {
+        "kind": "documented",
+        "title": "Ein Platz, der ein Schlachtfeld war",
+        "text": "Der Plac Krasi\u0144skich war keine stille Kulisse: Während des Aufstands wurde der Krasi\u0144ski-Palast am Nordrand des Platzes von deutschen Truppen besetzt und als Stützpunkt genutzt, und in der Gegend tobten schwere Kämpfe um seine Rückeroberung. Hier, am Rand der Altstadt und auf dem ehemaligen Schlachtfeld, das nationale Denkmal zu errichten, war ein bewusster Akt der Erinnerung."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "subtitle": "Praktische Antworten für die Planung Ihres Besuchs.",
+    "items": [
+      {
+        "q": "Ist das Warschauer Aufstand Denkmal kostenlos?",
+        "a": "Ja. Das Denkmal ist ein Freilicht-Mahnmal auf öffentlichem Grund \u2013 der Eintritt ist frei, und es ist ganzjährig rund um die Uhr zugänglich."
+      },
+      {
+        "q": "Wie sind die Öffnungszeiten?",
+        "a": "Der Gedenkplatz ist 365 Tage im Jahr rund um die Uhr geöffnet, ohne Einschränkungen. Die jährlichen Gedenkfeiern finden am 1. August statt."
+      },
+      {
+        "q": "Wie komme ich zum Plac Krasi\u0144skich?",
+        "a": "Die U-Bahn-Linie M1 hält an der Station Ratusz Arsena\u0142, etwa 5\u20138 Gehminuten entfernt. Straßenbahn- und Bushaltestellen liegen in der Nähe, die Altstadt ist etwa 8 Minuten zu Fuß erreichbar. Der Platz liegt zwischen der Altstadt und dem ehemaligen Ghetto."
+      },
+      {
+        "q": "Wie viel Zeit sollte ich einplanen?",
+        "a": "Ein ruhiger Besuch dauert etwa 40 Minuten \u2013 die Skulpturen umrunden und die Gedenktafeln lesen. Geschichtsinteressierte verbringen leicht 1,5 Stunden, wenn sie das Denkmal mit dem Krasi\u0144ski-Palast und der Altstadt verbinden."
+      },
+      {
+        "q": "Gibt es am Denkmal Toiletten, Cafés oder Geschäfte?",
+        "a": "Auf dem Gedenkplatz gibt es keine kommerziellen Einrichtungen. Öffentliche Toiletten, Cafés und Geschäfte finden Sie in 5\u201315 Gehminuten in der Altstadt und im Zentrum."
+      },
+      {
+        "q": "Was passiert am 1. August am Denkmal?",
+        "a": "Jedes Jahr am 1. August gedenkt Polen des Ausbruchs des Aufstands. Um 17:00 Uhr (W-Stunde) heulen in Warschau die Sirenen und es herrscht eine Minute Stille. Am Denkmal finden offizielle Zeremonien und Kranzniederlegungen statt."
+      },
+      {
+        "q": "Darf ich am Denkmal fotografieren?",
+        "a": "Ja, Fotografieren ist willkommen. Bitte bleiben Sie respektvoll \u2013 klettern Sie nicht auf die Skulpturen \u2013 und beachten Sie, dass Drohnen über Gedenkstätten in Warschau in der Regel verboten sind."
+      },
+      {
+        "q": "Ist das Denkmal rollstuhlgerecht?",
+        "a": "Ja. Das Denkmal steht auf einem offenen, ebenen Platz mit barrierefreien gepflasterten Wegen; es gibt keine Treppen oder Gebäude zu betreten, sodass es für Rollstuhlfahrer gut erreichbar ist."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Quellen & weiterführende Literatur",
+    "subtitle": "Unabhängige, nicht-kommerzielle Referenzmaterialien für diesen Reiseführer.",
+    "items": [
+      {
+        "name": "Wikipedia \u2013 Warsaw Uprising Monument (engl.)",
+        "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument"
+      },
+      {
+        "name": "Museum des Warschauer Aufstands (offizielle Website)",
+        "url": "https://www.1944.pl/"
+      },
+      {
+        "name": "Wikipedia \u2013 Pomnik Powstania Warszawskiego (poln.)",
+        "url": "https://pl.wikipedia.org/wiki/Pomnik_Powstania_Warszawskiego"
+      },
+      {
+        "name": "Culture.pl \u2013 Ku\u0107ma und Budyn, Warschauer Aufstand Denkmal",
+        "url": "https://culture.pl/pl/dzielo/wincenty-kucma-i-jacek-budyn-pomnik-powstania-warszawskiego"
+      },
+      {
+        "name": "Stadt Warschau (offizielle Website)",
+        "url": "https://www.um.warszawa.pl/en"
+      },
+      {
+        "name": "Google Maps \u2013 Standort des Plac Krasi\u0144skich",
+        "url": "https://maps.app.goo.gl/o1op4p1Fq98DU4WF9"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Wetter in Warschau",
+    "subtitle": "Aktuelle Bedingungen und 5-Tage-Vorhersage für den Bereich des Denkmals – zur Planung Ihres Besuchs.",
+    "current": "Aktuelle Bedingungen",
+    "today": "Heute",
+    "feelsLike": "Gefühlt",
+    "humidity": "Luftfeuchtigkeit",
+    "wind": "Wind",
+    "precipitation": "Niederschlag",
+    "forecast": "5-Tage-Vorhersage",
+    "precipProb": "Regenrisiko",
+    "updated": "Aktualisiert",
+    "updatedSoon": "Wetterdaten werden automatisch stündlich aktualisiert.",
+    "sourceNote": "Wetterdaten von Open-Meteo",
+    "unavailable": "Wetterdaten sind vorübergehend nicht verfügbar. Prüfen Sie vor Ihrem Besuch die lokale Vorhersage.",
+    "codes": {
+      "clear": "Klar",
+      "partly": "Teilweise bewölkt",
+      "overcast": "Bedeckt",
+      "fog": "Nebel",
+      "drizzle": "Nieselregen",
+      "rain": "Regen",
+      "snow": "Schnee",
+      "thunder": "Gewitter"
+    }
   }
 }

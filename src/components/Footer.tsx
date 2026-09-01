@@ -21,9 +21,6 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              <a href="https://www.gov.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {t('officialLinks.gov')}
-              </a>
               <a href="https://nid.pl/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.nid')}
               </a>
@@ -57,6 +54,7 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
         </div>
       </div>
     </footer>

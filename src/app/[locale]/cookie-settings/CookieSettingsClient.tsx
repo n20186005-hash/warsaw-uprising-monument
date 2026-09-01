@@ -71,6 +71,10 @@ export default function CookieSettingsClient() {
     localStorage.setItem('cookiePrefs', JSON.stringify({ analytics, marketing }));
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
+    // Notify the consent-gated GA4 loader (in layout head) to load immediately.
+    if (typeof window !== 'undefined') {
+      window.dispatchEvent(new Event('consent-updated'));
+    }
   }
 
   return (

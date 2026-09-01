@@ -1,27 +1,21 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/image-1.jpg', alt: '华沙起义纪念碑全景' },
-  { src: '/gallery/image-2.jpg', alt: '战斗反抗雕塑群' },
-  { src: '/gallery/image-3.jpg', alt: '废墟求生雕塑群' },
-  { src: '/gallery/image-4.jpg', alt: '纪念广场全貌' },
-  { src: '/gallery/image-5.jpg', alt: '雕塑细节特写' },
-  { src: '/gallery/image-6.jpg', alt: '暮色氛围' },
-  { src: '/gallery/image-7.jpg', alt: '历史纪念区域' },
-  { src: '/gallery/image-8.jpg', alt: '华沙城市天际线' },
-  { src: '/gallery/image-9.jpg', alt: '华沙起义纪念碑全景' },
-  { src: '/gallery/image-10.jpg', alt: '战斗反抗雕塑群' },
-  { src: '/gallery/image-11.jpg', alt: '废墟求生雕塑群' },
-  { src: '/gallery/image-12.jpg', alt: '纪念广场全貌' },
-  { src: '/gallery/image-13.jpg', alt: '雕塑细节特写' },
-  { src: '/gallery/image-14.jpg', alt: '暮色氛围' },
+const photoFiles = [
+  'image-1.jpg', 'image-2.jpg', 'image-3.jpg', 'image-4.jpg', 'image-5.jpg', 'image-6.jpg', 'image-7.jpg',
+  'image-8.jpg', 'image-9.jpg', 'image-10.jpg', 'image-11.jpg', 'image-12.jpg', 'image-13.jpg', 'image-14.jpg',
 ];
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const messages = useMessages() as any;
+  const captions: string[] = messages?.gallery?.captions || [];
+  const photos = photoFiles.map((file, i) => ({
+    src: `/gallery/${file}`,
+    alt: captions[i] || `Warsaw Uprising Monument photo ${i + 1}`,
+  }));
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
